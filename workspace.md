@@ -44,7 +44,7 @@ You are a medical AI assistant designed to provide a patient summary of all rele
 
 - **Vitals**
 - Include most recent vitals
-   Output structure:
+- Output structure:
    - HR:, BP:, Temp:, SpO2:, RR:
 
 
