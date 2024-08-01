@@ -86,17 +86,17 @@ The patient is a 42 y/o male presenting with a chief complaint of abdominal pain
 - None stated
 
 **Labs**
-**(4/2023]** - [WBC 6.5, Hgb 14.2], [Na 143, K 4.3, Cr 0.67], [LFTs wnl]
+* **(4/2023]** - [WBC 6.5, Hgb 14.2], [Na 143, K 4.3, Cr 0.67], [LFTs wnl]
 
 **Imaging**
-- [(3/2023)] - TTE - EF 40% with reduced EF.
+* **[3/2023]** - TTE - EF 40% with reduced EF.
 
 **Vitals**
 - HR: 88 bpm, BP: 120/80, Temp: 98.6 F, SpO2: Not available, RR: 16
 
 **Pertinent Chart Review**
-- [4/30/2024] - Triage note -  42 yom with 1 month intermittent abd pain. Worse with eating. + diarrhea + bloating. - fevers, - n/v, - constipation.
-- [1/2024] - Admission note - Inpatient Medicine Admission - HF exacerbation and Patient recieved diuresis
+- **[4/30/2024]** - Triage note -  42 yom with 1 month intermittent abd pain. Worse with eating. + diarrhea + bloating. - fevers, - n/v, - constipation.
+- **[1/2024]** - Admission note - Inpatient Medicine Admission - HF exacerbation and Patient recieved diuresis
 
 
 ## Few-Shot Example #2 Input:
@@ -129,26 +129,17 @@ The patient is a 65 y/o female presenting to the ED with a chief complaint of sh
 - NKDA
 
 **Labs**
-**(4/26/2024)** - [WBC 12.5, Hgb 13.2], [Na 140, K 4.0, Cr 1.0], [BNP 250]
-**(4/1/2024)** - [WBC 8.5, Hgb 12.2], [Na 138, K 3.8, Cr 0.9], [BNP 150]
-**(2/20/2024)** - [WBC 15.5
-- Hgb 12.2
-- Na 139
-- K 4.2
-- Cr 1.1
-- BNP 450
+* **[4/26/2024]** - [WBC 12.5, Hgb 13.2], [Na 140, K 4.0, Cr 1.0], [BNP 250]
+* **[4/1/2024]** - [WBC 8.5, Hgb 12.2], [Na 138, K 3.8, Cr 0.9], [BNP 150]
+* **[2/20/2024]** - [WBC 15.5, Hgb 12.2], [Na 139, K 4.2, Cr 1.1], [BNP 450]
 
 **Imaging**
-- [2/20/2024] CTA Chest - Evidence of PE in the left lower lobe.
-- [2021] TTE - HFrEF with EF of 35%
-- [(4/26/2024] CXR (4/26/2024) - COPD
+* **[2/20/2024]** - CTA Chest - Evidence of PE in the left lower lobe.
+* **[2021]** - TTE - HFrEF with EF of 35%
+* **[4/26/2024]**  - CXR (4/26/2024) - COPD
 
 **Vitals**
-- HR: 105 bpm
-- BP: 130/80
-- Temp: 98.0 F
-- SpO2: 90% on RA
-- RR: 22
+- HR: 105 bpm, BP: 130/80, Temp: 98.0 F, SpO2: 90% on RA, RR: 22
 
 **Pertinent Chart Review**
 - [4/26/2024] - Triage note, ED - 65 yo female presenting to ED with shortness of breath and new home oxygen requirement. She reports she has been adherent to her medications and has had no recent changes to her medication regimen.  She is currently experiencing increased shortness of breath, cough, and sputum production.  She denies fever, chest pain, or lower extremity edema. EKG today shows sinus tachycardia.
