@@ -18,8 +18,8 @@ Whitney Johnson, MD, MS
 
 ## Rapid Access
 
-*   [Approach to the Critical Patient](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
-*   Diagnostic approach to chest pain
+*   [Approach to the Critical Patient] (https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+*   [Diagnostic approach to chest pain] (https://www.emrap.org/corependium/chapter/recnCskZ7cdQzjZES/Approach-to-Chest-Pain)
 
 ## AIRWAY
 
@@ -30,14 +30,14 @@ Whitney Johnson, MD, MS
     *   Preparation includes
         *   Optimizing volume status
         *   Strongly consider initiating vasopressors prior to intubation if the patient is hypotensive or has a shock index < 0.7
-        *   Having push-dose pressors ready:
+        *   Having [push-dose pressors] (https://www.emrap.org/corependium/chapter/recJCKsNuvUC7XNDn/Bedside-Epinephrine-Drip-Dirty-Epi-Drip) ready:
             *   Phenylephrine 50-200 μg intravenous, over 20-30 seconds every 2-5 minutes (no maximum dose)
             *   Epinephrine 5-20 μg intravenous, may repeat every 2 minutes
 
 ## BREATHING
 
 *   Give supplemental oxygen if the patient is hypoxemic.
-*   Non-invasive ventilation (bilevel or continuous positive airway pressure) plays an important role in congestive heart failure and chronic obstructive pulmonary disease (COPD).
+*   [Non-invasive ventilation (bilevel or continuous positive airway pressure] (https://www.emrap.org/corependium/chapter/recnCskZ7cdQzjZES/Approach-to-Chest-Pain) plays an important role in congestive heart failure and chronic obstructive pulmonary disease (COPD).
 *   Cautions:
     *   Use non-invasive ventilation with caution and only under direct supervision if a patient is at risk of aspiration.
     *   If a patient has a tension pneumothorax, decompression is indicated before positive pressure ventilation.
@@ -71,12 +71,13 @@ Whitney Johnson, MD, MS
 
 ## EM:RAP Links
 
-*   [Chest Pain](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
-*   [Continuous vs. bilateral positive airway pressure in congestive heart failure](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+*   [Chest Pain] (https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+*   [Continuous vs. bilateral positive airway pressure in congestive heart failure] (https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
 
 ## Key Concepts
 
-*   Patients with a wide range of pathology present to the ED with chest pain. Some diagnoses are critical, some are urgent, and most are benign. It is the role of the emergency provider to evaluate chest pain with a view to ruling out any life-threatening diagnoses, addressing acute needs, assessing the need for hospitalization, and referring low-risk patients for outpatient follow-up as appropriate.
+*   Patients with a wide range of pathology present to the ED with chest pain. Some diagnoses are critical, some are urgent, and most are benign. [Lindsell CJ, Anantharaman V, Diercks D, et al. The Internet Tracking Registry of Acute Coronary Syndromes (i*trACS): a multicenter registry of patients with suspicion of acute coronary syndromes reported using the standardized reporting guidelines for emergency department chest pain studies. Ann Emerg Med. 2006;48(6):666-677.e6779. doi:10.1016/j.annemergmed.2006.08.005]
+* It is the role of the emergency provider to evaluate chest pain with a view to ruling out any life-threatening diagnoses, addressing acute needs, assessing the need for hospitalization, and referring low-risk patients for outpatient follow-up as appropriate.
 *   For patients in shock, start acute resuscitation. Point-of-care ultrasound may be useful to determine etiology.
 *   Patients with acute or stable chest pain not thought to be caused by ACS and deemed to be low risk for an urgent cause or adverse effects do not need urgent diagnostic testing for diagnosis of coronary artery disease (CAD). Attempt to identify patients most likely to benefit from further testing (ie, intermediate or high pretest risk of obstructive coronary disease).
 *   For many patients, initial orders include acetylsalicylic acid (325 mg chewed), chest radiograph, ECG, serum troponin and basic labs while a differential diagnosis is worked through.
@@ -95,7 +96,7 @@ Whitney Johnson, MD, MS
 
 ### History of present illness
 
-*   The mnemonic “OLDCAAAR” can assist with eliciting descriptors of the patient’s chest pain; it stands for: onset, location, duration, character, alleviating/aggravating factors, associated symptoms, activity at onset, and radiation.
+*   The mnemonic “OLDCAAAR” can assist with eliciting descriptors of the patient’s chest pain; it stands for: onset, location, duration, character, alleviating/aggravating factors, associated symptoms, activity at onset, and radiation. [Mattu A. Evaluation of chest pain and diagnosis of acute coronary syndrome. In Weinstock MB, Longstreth R, eds. Bouncebacks! Emergency Department Cases: ED Returns. Columbus, Ohio, Anadem Publishing, 2018, pp 96-104]
 *   Ask about the onset of pain
     *   A sudden onset of chest pain should raise concern for thoracic aortic dissection, pneumothorax, and pulmonary embolism.
 *   Ask about the location of pain
@@ -107,7 +108,7 @@ Whitney Johnson, MD, MS
     *   The term chest discomfort is preferred when obtaining a history as patients may be reluctant to use the word “pain.”
     *   The pain of myocardial ischemia is a deep visceral discomfort that is difficult to localize and usually diffuse.
     *   Probability of ischemic based on common patient descriptors
-        *   Sharp or stabbing pain is consistent with thoracic aortic dissection, pneumothorax, pulmonary embolism, mediastinitis after esophageal rupture, but less likely to be due to ACS.
+        *   Sharp or stabbing pain is consistent with thoracic aortic dissection, pneumothorax, pulmonary embolism, mediastinitis after esophageal rupture, but less likely to be due to ACS. [Writing Committee Members, Gulati M, Levy PD, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Cardiovasc Comput Tomogr. 2022;16(1):54-122. doi:10.1016/j.jcct.2021.11.009]
         *   Severe sharp (68%), ripping (50%) or tearing pain in the chest or back suggests thoracic aortic dissection.
 *   Ask about alleviating or aggravating factors
     *   Symptoms that change with position may identify pericarditis or musculoskeletal chest pain, although the latter should be a diagnosis of exclusion.
@@ -124,7 +125,7 @@ Whitney Johnson, MD, MS
 
 ### Risk factors
 
-#### Risk factors for acute coronary syndrome
+#### Risk factors for acute coronary syndrome [Anderson JL, Adams CD, Antman EM, et al. 2011 ACCF/AHA Focused Update Incorporated Into the ACC/AHA 2007 Guidelines for the Management of Patients With Unstable Angina/Non-ST-Elevation Myocardial Infarction: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines [published correction appears in Circulation. 2011 Jun 7;123(22):e627]. Circulation. 2011;123(18):e426-e579. doi:10.1161/CIR.0b013e318212bb8b] [Mattu A, Petrini J, Swencki S, Chaudhari C, Brady WJ. Premature atherosclerosis and acute coronary syndrome in systemic lupus erythematosus. Am J Emerg Med. 2005;23(5):696-703. doi:10.1016/j.ajem.2004.12.012] [Long A, Long B, Koyfman A. Non-traditional risk factors for atherosclerotic disease: A review for emergency physicians. Am J Emerg Med. 2018;36(3):494-497. doi:10.1016/j.ajem.2017.12.036]
 
 *   Advanced age
 *   Known CAD
@@ -152,7 +153,7 @@ Whitney Johnson, MD, MS
 
 *   Hypertension (72%)
 *   Atherosclerosis (30%)
-*   Connective tissue disorder (5%)
+*   Connective tissue disorder (5%) [Hagan PG, Nienaber CA, Isselbacher EM, et al. The International Registry of Acute Aortic Dissection (IRAD): new insights into an old disease. JAMA. 2000;283(7):897-903. doi:10.1001/jama.283.7.897] [Pape LA, Awais M, Woznicki EM, et al. Presentation, Diagnosis, and Outcomes of Acute Aortic Dissection: 17-Year Trends From the International Registry of Acute Aortic Dissection. J Am Coll Cardiol. 2015;66(4):350-358. doi:10.1016/j.jacc.2015.05.029]
 
 #### Risk factors for pericardial tamponade
 
@@ -178,7 +179,8 @@ Whitney Johnson, MD, MS
     *   Diaphoresis
     *   Radiation to the arms/neck/jaw
     *   Vomiting
-    *   Similarity to past (proven) ischemia.
+    *   Similarity to past (proven) ischemia. [Body R, Carley S, Wibberley C, McDowell G, Ferguson J, Mackway-Jones K. The value of symptoms and signs in the emergent diagnosis of acute coronary syndromes. Resuscitation. 2010;81(3):281-286. doi:10.1016/j.resuscitation.2009.11.014 More Info][EMA July 2010: The Value Of Symptoms And Signs In The Emergent Diagnosis Of Acute Coronary Syndromes. EM:RAP. https://www.emrap.org/episode/ema-2010-7/abstract3. Updated September 20, 2017. Accessed September 1, 2023. More Info] [Fanaroff AC, Rymer JA, Goldstein SA, Simel DL, Newby LK. Does This Patient With Chest Pain Have Acute Coronary Syndrome?: The Rational Clinical Examination Systematic Review. JAMA. 2015;314(18):1955-1965. doi:10.1001/jama.2015.12735 More Info] [EMA April 2016: Does This Patient With Chest Pain Have Acute Coronary Syndrome? The Rational Clinical Examination Systematic Review. EM:RAP. https://www.emrap.org/episode/ema-2016-4/abstract1. Updated September 20, 2017. Accessed September 1, 2023.]
+
 
 ## Physical exam
 
@@ -191,29 +193,30 @@ Whitney Johnson, MD, MS
     *   Pulmonary embolism (thrombolysis)
 *   Hypoxemia is most consistent with tension pneumothorax, congestive heart failure, and pulmonary embolism.
 *   Tachycardia and tachypnea are rather non-specific; both are common in several life-threatening causes of chest pain.
-*   Pulsus paradoxus, a systolic blood pressure drop > 10mmHg with inspiration (see video) occurs in pericardial tamponade.
+*   Pulsus paradoxus, a systolic blood pressure drop > 10mmHg with inspiration (see video) occurs in pericardial tamponade. [Stein PD, Terrin ML, Hales CA, et al. Clinical, laboratory, roentgenographic, and electrocardiographic findings in patients with acute pulmonary embolism and no pre-existing cardiac or pulmonary disease. Chest. 1991;100(3):598-603. doi:10.1378/chest.100.3.598 ]
 
 ### Cardiac exam
 
 *   Auscultate the heart
     *   Diminished or muffled heart sounds or a pericardial rub may raise suspicion for pericarditis and/or pericardial tamponade.
     *   A diastolic murmur may be due to aortic regurgitation from a type A thoracic aortic dissection, endocarditis, or myopericardial syndromes.
-    *   An S3 gallop is strongly associated with heart failure.
+    *   An S3 gallop is strongly associated with heart failure. [Wang CS, FitzGerald JM, Schulzer M, Mak E, Ayas NT. Does this dyspneic patient in the emergency department have congestive heart failure?. JAMA. 2005;294(15):1944-1956. doi:10.1001/jama.294.15.1944]
 
 ### Assess the extremities
 
-*   A pulse deficit in one or more of the four extremities suggests an aortic dissection. This is observed in fewer than one-third of patients.Asymmetric swelling is consistent with deep vein thrombosis, which occurs in 13% of patients with pulmonary embolism.
+*   A pulse deficit in one or more of the four extremities suggests an aortic dissection. This is observed in fewer than one-third of patients. [Pape LA, Awais M, Woznicki EM, et al. Presentation, Diagnosis, and Outcomes of Acute Aortic Dissection: 17-Year Trends From the International Registry of Acute Aortic Dissection. J Am Coll Cardiol. 2015;66(4):350-358. doi:10.1016/j.jacc.2015.05.029]
+* Asymmetric swelling is consistent with deep vein thrombosis, which occurs in 13% of patients with pulmonary embolism.  [Stein PD, Terrin ML, Hales CA, et al. Clinical, laboratory, roentgenographic, and electrocardiographic findings in patients with acute pulmonary embolism and no pre-existing cardiac or pulmonary disease. Chest. 1991;100(3):598-603. doi:10.1378/chest.100.3.598]
 *   Peripheral edema is consistent with heart failure.
 
 ### Examine the neck
 
-*   Jugular venous distention may be seen with pericardial tamponade, pulmonary embolism, tension pneumothorax, and heart failure.
+*   [Jugular venous distention] (https://www.emrap.org/corependium/chapter/recnCskZ7cdQzjZES/Approach-to-Chest-Pain) may be seen with pericardial tamponade, pulmonary embolism, tension pneumothorax, and heart failure.
 
 ### Pulmonary exam
 
 *   Listen for breath sounds
     *   Absent breath sounds (and/or hyperresonance on percussion) may indicate tension pneumothorax.
-    *   Wheezing is frequently present with pulmonary embolism (60% of cases) as well as reactive airway disease/COPD) and pneumonia.
+    *   Wheezing is frequently present with pulmonary embolism (60% of cases) as well as reactive airway disease/COPD) and pneumonia.[Stein PD, Terrin ML, Hales CA, et al. Clinical, laboratory, roentgenographic, and electrocardiographic findings in patients with acute pulmonary embolism and no pre-existing cardiac or pulmonary disease. Chest. 1991;100(3):598-603. doi:10.1378/chest.100.3.598]
     *   Wet crackles are most consistent with heart failure.
 
 ### Chest wall exam
@@ -246,10 +249,10 @@ Whitney Johnson, MD, MS
 
 ### Life-threatening causes of chest pain to consider
 
-*   Acute Coronary Syndromes
-*   Aortic Dissection
-*   Acute Myopericardial Syndromes
-*   Esophageal Rupture
+*   [Acute Coronary Syndromes] (https://www.emrap.org/corependium/chapter/rec8tYnfjz2FpdGrE/Acute-Coronary-Syndromes)
+*   [Aortic Dissection] (https://www.emrap.org/corependium/chapter/recN9AXGWMstEm8CO/Aortic-Dissection)
+*   [Acute Myopericardial Syndromes] (https://www.emrap.org/corependium/chapter/recMrI1YMzIvGyWyF/Acute-Myopericardial-Syndromes)
+*   [Esophageal Rupture] (https://www.emrap.org/corependium/chapter/recNAvnIuiiea2rgr/Esophageal-Rupture)
 *   Pericardial Tamponade
 *   Pulmonary Embolism
 *   Tension Pneumothorax
@@ -283,7 +286,7 @@ Whitney Johnson, MD, MS
 *   Stable angina
 *   Prinzmetal’s angina
 *   Chest pain not otherwise specified
-    *   Approximately one-half of patients assessed for ACS are ultimately diagnosed as common low risk.
+    *   Approximately one-half of patients assessed for ACS are ultimately diagnosed as common low risk. [Lindsell CJ, Anantharaman V, Diercks D, et al. The Internet Tracking Registry of Acute Coronary Syndromes (i*trACS): a multicenter registry of patients with suspicion of acute coronary syndromes reported using the standardized reporting guidelines for emergency department chest pain studies. Ann Emerg Med. 2006;48(6):666-677.e6779. doi:10.1016/j.annemergmed.2006.08.005]
     *   “Atypical” is a misleading descriptor that may be misinterpreted as benign; its use is discouraged.
     *   “Noncardiac” should be used if heart disease is not suspected.
 
@@ -702,4 +705,92 @@ Whitney Johnson, MD, MS
 *   [High Sensitivity Troponin](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
 *   [High Sensitivity Troponins – Rapid Rule-outs?](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
 *   [ACEP Clinical Policy on NSTEMI](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+
+
+## References
+
+1.  Allabban A, Hollander JE, Pines JM. Gender, race and the presentation of acute coronary syndrome and serious cardiopulmonary diagnoses in ED patients with chest pain. Emerg Med J. 2017;34(10):653-658. doi:10.1136/emermed-2016-206104 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+2.  American College of Emergency Physicians Clinical Policies Subcommittee (Writing Committee) on Suspected Non–ST-Elevation Acute Coronary Syndromes:, Tomaszewski CA, Nestler D, Shah KH, Sudhir A, Brown MD. Clinical Policy: Critical Issues in the Evaluation and Management of Emergency Department Patients With Suspected Non-ST-Elevation Acute Coronary Syndromes. Ann Emerg Med. 2018;72(5):e65-e106. doi:10.1016/j.annemergmed.2018.07.045 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+3.  Amsterdam EA, Kirk JD, Diercks DB, Lewis WR, Turnipseed SD. Exercise testing in chest pain units: rationale, implementation, and results. Cardiol Clin. 2005;23(4):503-vii. doi:10.1016/j.ccl.2005.08.016 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+4.  Amsterdam EA, Wenger NK, Brindis RG, et al. 2014 AHA/ACC Guideline for the Management of Patients with Non-ST-Elevation Acute Coronary Syndromes: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines \[published correction appears in J Am Coll Cardiol. 2014 Dec 23;64(24):2713-4. Dosage error in article text]. J Am Coll Cardiol. 2014;64(24):e139-e228. doi:10.1016/j.jacc.2014.09.017 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+5.  Anderson JL, Adams CD, Antman EM, et al. 2011 ACCF/AHA Focused Update Incorporated Into the ACC/AHA 2007 Guidelines for the Management of Patients With Unstable Angina/Non-ST-Elevation Myocardial Infarction: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines \[published correction appears in Circulation. 2011 Jun 7;123(22):e627]. Circulation. 2011;123(18):e426-e579. doi:10.1161/CIR.0b013e318212bb8b [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+6.  Anderson JL, Adams CD, Antman EM, et al. ACC/AHA 2007 guidelines for the management of patients with unstable angina/non ST-elevation myocardial infarction: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (Writing Committee to Revise the 2002 Guidelines for the Management of Patients With Unstable Angina/Non ST-Elevation Myocardial Infarction): developed in collaboration with the American College of Emergency Physicians, the Society for Cardiovascular Angiography and Interventions, and the Society of Thoracic Surgeons: endorsed by the American Association of Cardiovascular and Pulmonary Rehabilitation and the Society for Academic Emergency Medicine \[published correction appears in Circulation. 2008 Mar 4;117(9):e180]. Circulation. 2007;116(7):e148-e304. doi:10.1161/CIRCULATIONAHA.107.181940 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+7.  Antman EM, Tanasijevic MJ, Thompson B, et al. Cardiac-specific troponin I levels to predict the risk of mortality in patients with acute coronary syndromes. N Engl J Med. 1996;335(18):1342-1349. doi:10.1056/NEJM199610313351802 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+8.  Ayaram D, Bellolio MF, Murad MH, et al. Triple rule-out computed tomographic angiography for chest pain: a diagnostic systematic review and meta-analysis. Acad Emerg Med. 2013;20(9):861-871. doi:10.1111/acem.12210 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+9.  Barco S, Ende-Verhaar YM, Becattini C, et al. Differential impact of syncope on the prognosis of patients with acute pulmonary embolism: a systematic review and meta-analysis. Eur Heart J. 2018;39(47):4186-4195. doi:10.1093/eurheartj/ehy631 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+10. Barco S, Mahmoudpour SH, Planquette B, Sanchez O, Konstantinides SV, Meyer G. Prognostic value of right ventricular dysfunction or elevated cardiac biomarkers in patients with low-risk pulmonary embolism: a systematic review and meta-analysis. Eur Heart J. 2019;40(11):902-910. doi:10.1093/eurheartj/ehy873 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+11. Blaivas M, Lyon M, Duggal S. A prospective comparison of supine chest radiography and bedside ultrasound for the diagnosis of traumatic pneumothorax. Acad Emerg Med. 2005;12(9):844-849. doi:10.1197/j.aem.2005.05.005 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+12. Body R, Carley S, Wibberley C, McDowell G, Ferguson J, Mackway-Jones K. The value of symptoms and signs in the emergent diagnosis of acute coronary syndromes. Resuscitation. 2010;81(3):281-286. doi:10.1016/j.resuscitation.2009.11.014 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+13. Braunwald E, Antman EM, Beasley JW, et al. ACC/AHA 2002 guideline update for the management of patients with unstable angina and non-ST-segment elevation myocardial infarction--summary article: a report of the American College of Cardiology/American Heart Association task force on practice guidelines (Committee on the Management of Patients With Unstable Angina). J Am Coll Cardiol. 2002;40(7):1366-1374. doi:10.1016/s0735-1097(02)02336-7 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+14. Burris AC 2nd, Boura JA, Raff GL, Chinnaiyan KM. Triple Rule Out Versus Coronary CT Angiography in Patients With Acute Chest Pain: Results From the ACIC Consortium. JACC Cardiovasc Imaging. 2015;8(7):817-825. doi:10.1016/j.jcmg.2015.02.023 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+15. Carlton EW, Cullen L, Than M, Gamble J, Khattab A, Greaves K. A novel diagnostic protocol to identify patients suitable for discharge after a single high-sensitivity troponin. Heart. 2015;101(13):1041-1046. doi:10.1136/heartjnl-2014-307288 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+16. Chinnaiyan KM, Safian RD, Gallagher ML, et al. Clinical Use of CT-Derived Fractional Flow Reserve in the Emergency Department. JACC Cardiovasc Imaging. 2020;13(2 Pt 1):452-461. doi:10.1016/j.jcmg.2019.05.025 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+17. Cunningham MA, Lee TH, Cook EF, et al. The effect of gender on the probability of myocardial infarction among emergency department patients with acute chest pain: a report from the Multicenter Chest Pain Study Group. J Gen Intern Med. 1989;4(5):392-398. doi:10.1007/BF02599688 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+18. Daniels DV, Rockson SG, Vagelos R. Concise Cardiology: An Evidence-Based Handbook. Philadelphia, PA: Lippincott Williams & Wilkins; 2008.
+19. de Winter RJ, Verouden NJ, Wellens HJ, Wilde AA; Interventional Cardiology Group of the Academic Medical Center. A new ECG sign of proximal LAD occlusion. N Engl J Med. 2008;359(19):2071-2073. doi:10.1056/NEJMc0804737 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+20. Dev SP, Nascimento B Jr, Simone C, Chien V. Videos in clinical medicine. Chest-tube insertion. N Engl J Med. 2007;357(15):e15. doi:10.1056/NEJMvcm071974 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+21. Dezman ZD, Mattu A, Body R. Utility of the History and Physical Examination in the Detection of Acute Coronary Syndromes in Emergency Department Patients. West J Emerg Med. 2017;18(4):752-760. doi:10.5811/westjem.2017.3.32666 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+22. EMA April 2016: Does This Patient With Chest Pain Have Acute Coronary Syndrome? The Rational Clinical Examination Systematic Review. EM:RAP. <https://www.emrap.org/episode/ema-2016-4/abstract1>. Updated September 20, 2017. Accessed September 1, 2023. [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+23. EMA July 2010: The Value Of Symptoms And Signs In The Emergent Diagnosis Of Acute Coronary Syndromes. EM:RAP. <https://www.emrap.org/episode/ema-2010-7/abstract3>. Updated September 20, 2017. Accessed September 1, 2023. [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+24. Ende-Verhaar YM, Cannegieter SC, Vonk Noordegraaf A, et al. Incidence of chronic thromboembolic pulmonary hypertension after acute pulmonary embolism: a contemporary view of the published literature. Eur Respir J. 2017;49(2):1601792. Published 2017 Feb 23. doi:10.1183/13993003.01792-2016 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+25. Fanaroff AC, Rymer JA, Goldstein SA, Simel DL, Newby LK. Does This Patient With Chest Pain Have Acute Coronary Syndrome?: The Rational Clinical Examination Systematic Review. JAMA. 2015;314(18):1955-1965. doi:10.1001/jama.2015.12735 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+26. Fitch MT, Nicks BA, Pariyadath M, McGinnis HD, Manthey DE. Videos in clinical medicine. Emergency pericardiocentesis. N Engl J Med. 2012;366(12):e17. doi:10.1056/NEJMvcm0907841 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+27. Ganguli I, Cui J, Thakore N, et al. Downstream Cascades of Care Following High-Sensitivity Troponin Test Implementation. J Am Coll Cardiol. 2021;77(25):3171-3179. doi:10.1016/j.jacc.2021.04.049 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+28. Gibler WB, Runyon JP, Levy RC, et al. A rapid diagnostic and treatment center for patients with chest pain in the emergency department. Ann Emerg Med. 1995;25(1):1-8. doi:10.1016/s0196-0644(95)70347-0 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+29. Gongora CA, Bavishi C, Uretsky S, Argulian E. Acute chest pain evaluation using coronary computed tomography angiography compared with standard of care: a meta-analysis of randomised clinical trials. Heart. 2018;104(3):215-221. doi:10.1136/heartjnl-2017-311647 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+30. Grailey K, Glasziou PP. Diagnostic accuracy of nitroglycerine as a 'test of treatment' for cardiac chest pain: a systematic review. Emerg Med J. 2012;29(3):173-176. doi:10.1136/emj.2010.103994 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+31. Gulati M, Levy PD, Mukherjee D, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines \[published correction appears in Circulation. 2021 Nov 30;144(22):e455]. Circulation. 2021;144(22):e368-e454. doi:10.1161/CIR.0000000000001029 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+32. Gupta M, Tabas JA, Kohn MA. Presenting complaint among patients with myocardial infarction who present to an urban, public hospital emergency department. Ann Emerg Med. 2002;40(2):180-186. doi:10.1067/mem.2002.126396 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+33. Hagan PG, Nienaber CA, Isselbacher EM, et al. The International Registry of Acute Aortic Dissection (IRAD): new insights into an old disease. JAMA. 2000;283(7):897-903. doi:10.1001/jama.283.7.897 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+34. Han JH, Lindsell CJ, Storrow AB, et al. The role of cardiac risk factor burden in diagnosing acute coronary syndromes in the emergency department setting. Ann Emerg Med. 2007;49(2):145-152.e1. doi:10.1016/j.annemergmed.2006.09.027 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+35. Hoffmann U, Bamberg F, Chae CU, et al. Coronary computed tomography angiography for early triage of patients with acute chest pain: the ROMICAT (Rule Out Myocardial Infarction using Computer Assisted Tomography) trial. J Am Coll Cardiol. 2009;53(18):1642-1650. doi:10.1016/j.jacc.2009.01.052 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+36. Hoffmann U, Nagurney JT, Moselewski F, et al. Coronary multidetector computed tomography in the assessment of patients with acute chest pain \[published correction appears in Circulation. 2006 Dec 19;114(25):e651]. Circulation. 2006;114(21):2251-2260. doi:10.1161/CIRCULATIONAHA.106.634808 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+37. Johnson BD, Shaw LJ, Pepine CJ, et al. Persistent chest pain predicts cardiovascular events in women without obstructive coronary artery disease: results from the NIH-NHLBI-sponsored Women's Ischaemia Syndrome Evaluation (WISE) study. Eur Heart J. 2006;27(12):1408-1415. doi:10.1093/eurheartj/ehl040 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+38. Kawatkar AA, Sharp AL, Baecker AS, et al. Early Noninvasive Cardiac Testing After Emergency Department Evaluation for Suspected Acute Coronary Syndrome. JAMA Intern Med. 2020;180(12):1621-1629. doi:10.1001/jamainternmed.2020.4325 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+39. Khan NA, Daskalopoulou SS, Karp I, et al. Sex differences in acute coronary syndrome symptom presentation in young patients. JAMA Intern Med. 2013;173(20):1863-1871. doi:10.1001/jamainternmed.2013.10149 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+40. Kim HS, Kim SM, Cha MJ, et al. Triple rule-out CT angiography protocol with restricting field of view for detection of pulmonary thromboembolism and aortic dissection in emergency department patients: simulation of modified CT protocol for reducing radiation dose. Acta Radiol. 2017;58(5):521-527. doi:10.1177/0284185116663044 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+41. Lange RA, Cigarroa RG, Yancy CW Jr, et al. Cocaine-induced coronary-artery vasoconstriction. N Engl J Med. 1989;321(23):1557-1562. doi:10.1056/NEJM198912073212301 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+42. Levin DC, Parker L, Halpern EJ, Rao VM. Coronary CT Angiography: Use in Patients With Chest Pain Presenting to Emergency Departments. AJR Am J Roentgenol. 2018;210(4):816-820. doi:10.2214/AJR.17.18740 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+43. Lichtman JH, Leifheit EC, Safdar B, et al. Sex Differences in the Presentation and Perception of Symptoms Among Young Patients With Myocardial Infarction: Evidence from the VIRGO Study (Variation in Recovery: Role of Gender on Outcomes of Young AMI Patients). Circulation. 2018;137(8):781-790. doi:10.1161/CIRCULATIONAHA.117.031650 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+44. Lindsell CJ, Anantharaman V, Diercks D, et al. The Internet Tracking Registry of Acute Coronary Syndromes (i\*trACS): a multicenter registry of patients with suspicion of acute coronary syndromes reported using the standardized reporting guidelines for emergency department chest pain studies. Ann Emerg Med. 2006;48(6):666-677.e6779. doi:10.1016/j.annemergmed.2006.08.005 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+45. Long A, Long B, Koyfman A. Non-traditional risk factors for atherosclerotic disease: A review for emergency physicians. Am J Emerg Med. 2018;36(3):494-497. doi:10.1016/j.ajem.2017.12.036 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+46. Mahler SA, Riley RF, Hiestand BC, et al. The HEART Pathway randomized trial: identifying emergency department patients with acute chest pain for early discharge. Circ Cardiovasc Qual Outcomes. 2015;8(2):195-203. doi:10.1161/CIRCOUTCOMES.114.001384 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+47. Mahler SA, Riley RF, Russell GB, et al. Adherence to an Accelerated Diagnostic Protocol for Chest Pain: Secondary Analysis of the HEART Pathway Randomized Trial. Acad Emerg Med. 2016;23(1):70-77. doi:10.1111/acem.12835 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+48. Marill KA. Serum D-dimer is a sensitive test for the detection of acute aortic dissection: a pooled meta-analysis. J Emerg Med. 2008;34(4):367-376. doi:10.1016/j.jemermed.2007.06.030 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+49. Mattu A, Petrini J, Swencki S, Chaudhari C, Brady WJ. Premature atherosclerosis and acute coronary syndrome in systemic lupus erythematosus. Am J Emerg Med. 2005;23(5):696-703. doi:10.1016/j.ajem.2004.12.012 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+50. Mattu A. Evaluation of chest pain and diagnosis of acute coronary syndrome. In Weinstock MB, Longstreth R, eds. *Bouncebacks! Emergency Department Cases: ED Returns*. Columbus, Ohio, Anadem Publishing, 2018, pp 96-104
+51. Mercé J, Sagristà-Sauleda J, Permanyer-Miralda G, Evangelista A, Soler-Soler J. Correlation between clinical and Doppler echocardiographic findings in patients with moderate and large pericardial effusion: implications for the diagnosis of cardiac tamponade. Am Heart J. 1999;138(4 Pt 1):759-764. doi:10.1016/s0002-8703(99)70193-6 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+52. Meyers HP, Limkakeng AT Jr, Jaffa EJ, et al. Validation of the modified Sgarbossa criteria for acute coronary occlusion in the setting of left bundle branch block: A retrospective case-control study. Am Heart J. 2015;170(6):1255-1264. doi:10.1016/j.ahj.2015.09.005 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+53. Mikhail MG, Smith FA, Gray M, Britton C, Frederiksen SM. Cost-effectiveness of mandatory stress testing in chest pain center patients. Ann Emerg Med. 1997;29(1):88-98. doi:10.1016/s0196-0644(97)70314-7 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+54. Mészáros I, Mórocz J, Szlávi J, et al. Epidemiology and clinicopathology of aortic dissection. Chest. 2000;117(5):1271-1278. doi:10.1378/chest.117.5.1271 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+55. Nagdev A, Stone MB. Point-of-care ultrasound evaluation of pericardial effusions: does this patient have cardiac tamponade?. Resuscitation. 2011;82(6):671-673. doi:10.1016/j.resuscitation.2011.02.004 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+56. Nazerian P, Mueller C, Soeiro AM, et al. Diagnostic Accuracy of the Aortic Dissection Detection Risk Score Plus D-Dimer for Acute Aortic Syndromes: The ADvISED Prospective Multicenter Study. Circulation. 2018;137(3):250-258. doi:10.1161/CIRCULATIONAHA.117.029457 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+57. Neumann JT, Sörensen NA, Schwemer T, et al. Diagnosis of Myocardial Infarction Using a High-Sensitivity Troponin I 1-Hour Algorithm. JAMA Cardiol. 2016;1(4):397-404. doi:10.1001/jamacardio.2016.0695 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+58. Noack PS, Moore JA, Poon M. Advanced Imaging Reduces Cost Compared to Standard of Care in Emergency Department of Triage of Acute Chest Pain. Health Serv Res. 2018;53(4):2384-2405. doi:10.1111/1475-6773.12799 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+59. O'Gara PT, Kushner FG, Ascheim DD, et al. 2013 ACCF/AHA guideline for the management of ST-elevation myocardial infarction: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines \[published correction appears in Circulation. 2013 Dec 24;128(25):e481]. Circulation. 2013;127(4):e362-e425. doi:10.1161/CIR.0b013e3182742cf6 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+60. Omar HR, Mirsaeidi M, Weinstock MB, Enten G, Mangar D, Camporesi EM. Syncope on presentation is a surrogate for submassive and massive acute pulmonary embolism. Am J Emerg Med. 2018;36(2):297-300. doi:10.1016/j.ajem.2017.11.014 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+61. O’Connell TF, Palomo A, Tariq R, Safian RD, Gallagher M, Chinnaiyan KM. Abstract 13587: long-term outcomes of ct-derived fractional flow reserve in the emergency department. Circulation. 2021;144(Suppl_1). doi:10.1161/circ.144.suppl_1.13587
+62. Pape LA, Awais M, Woznicki EM, et al. Presentation, Diagnosis, and Outcomes of Acute Aortic Dissection: 17-Year Trends From the International Registry of Acute Aortic Dissection. J Am Coll Cardiol. 2015;66(4):350-358. doi:10.1016/j.jacc.2015.05.029 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+63. Perera P, Mailhot T, Riley D, Mandavia D. The RUSH exam: Rapid Ultrasound in SHock in the evaluation of the critically lll. Emerg Med Clin North Am. 2010;28(1):29-vii. doi:10.1016/j.emc.2009.09.010 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+64. Perrier A, Roy PM, Sanchez O, et al. Multidetector-row computed tomography in suspected pulmonary embolism. N Engl J Med. 2005;352(17):1760-1768. doi:10.1056/NEJMoa042905 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+65. Pope JH, Ruthazer R, Beshansky JR, Griffith JL, Selker HP. Clinical Features of Emergency Department Patients Presenting with Symptoms Suggestive of Acute Cardiac Ischemia: A Multicenter Study. J Thromb Thrombolysis. 1998;6(1):63-74. doi:10.1023/A:1008876322599 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+66. Reichlin T, Hochholzer W, Bassetti S, et al. Early diagnosis of myocardial infarction with sensitive cardiac troponin assays. N Engl J Med. 2009;361(9):858-867. doi:10.1056/NEJMoa0900428 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+67. Righini M, Aujesky D, Roy PM, et al. Clinical usefulness of D-dimer depending on clinical probability and cutoff value in outpatients with suspected pulmonary embolism. Arch Intern Med. 2004;164(22):2483-2487. doi:10.1001/archinte.164.22.2483 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+68. Righini M, Van Es J, Den Exter PL, et al. Age-adjusted D-dimer cutoff levels to rule out pulmonary embolism: the ADJUST-PE study \[published correction appears in JAMA. 2014 Apr 23-30;311(16):1694]. JAMA. 2014;311(11):1117-1124. doi:10.1001/jama.2014.2135 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+69. Roffi M, Patrono C, Collet JP, et al. 2015 ESC Guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation: Task Force for the Management of Acute Coronary Syndromes in Patients Presenting without Persistent ST-Segment Elevation of the European Society of Cardiology (ESC). Eur Heart J. 2016;37(3):267-315. doi:10.1093/eurheartj/ehv320 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+70. Roncon L, Zuin M, Casazza F, Becattini C, Bilato C, Zonzin P. Impact of syncope and pre-syncope on short-term mortality in patients with acute pulmonary embolism. Eur J Intern Med. 2018;54:27-33. doi:10.1016/j.ejim.2018.04.004 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+71. Shopp JD, Stewart LK, Emmett TW, Kline JA. Findings From 12-lead Electrocardiography That Predict Circulatory Shock From Pulmonary Embolism: Systematic Review and Meta-analysis. Acad Emerg Med. 2015;22(10):1127-1137. doi:10.1111/acem.12769 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+72. Six AJ, Backus BE, Kelder JC. Chest pain in the emergency room: value of the HEART score. Neth Heart J. 2008;16(6):191-196. doi:10.1007/BF03086144 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+73. Stein PD, Terrin ML, Hales CA, et al. Clinical, laboratory, roentgenographic, and electrocardiographic findings in patients with acute pulmonary embolism and no pre-existing cardiac or pulmonary disease. Chest. 1991;100(3):598-603. doi:10.1378/chest.100.3.598 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+74. Stein RA, Chaitman BR, Balady GJ, et al. Safety and utility of exercise testing in emergency room chest pain centers: An advisory from the Committee on Exercise, Rehabilitation, and Prevention, Council on Clinical Cardiology, American Heart Association. Circulation. 2000;102(12):1463-1467. doi:10.1161/01.cir.102.12.1463 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+75. Sullivan PR, Wolfson AB, Leckey RD, Burke JL. Diagnosis of acute thoracic aortic dissection in the emergency department. Am J Emerg Med. 2000;18(1):46-50. doi:10.1016/s0735-6757(00)90047-0 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+76. Takakuwa KM, Halpern EJ. Evaluation of a "triple rule-out" coronary CT angiography protocol: use of 64-Section CT in low-to-moderate risk emergency department patients suspected of having acute coronary syndrome. Radiology. 2008;248(2):438-446. doi:10.1148/radiol.2482072169 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+77. Thygesen K, Alpert JS, Jaffe AS, et al. Fourth Universal Definition of Myocardial Infarction (2018). J Am Coll Cardiol. 2018;72(18):2231-2264. doi:10.1016/j.jacc.2018.08.1038 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+78. Truong QA, Schulman-Marcus J, Zakroysky P, et al. Coronary CT Angiography Versus Standard Emergency Department Evaluation for Acute Chest Pain and Diabetic Patients: Is There Benefit With Early Coronary CT Angiography? Results of the Randomized Comparative Effectiveness ROMICAT II Trial. J Am Heart Assoc. 2016;5(3):e003137. Published 2016 Mar 22. doi:10.1161/JAHA.115.003137 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+79. von Kodolitsch Y, Nienaber CA, Dieckmann C, et al. Chest radiography for the diagnosis of acute aortic syndrome. Am J Med. 2004;116(2):73-77. doi:10.1016/j.amjmed.2003.08.030 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+80. Wang CS, FitzGerald JM, Schulzer M, Mak E, Ayas NT. Does this dyspneic patient in the emergency department have congestive heart failure?. JAMA. 2005;294(15):1944-1956. doi:10.1001/jama.294.15.1944 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+81. Wnorowski AM, Halpern EJ. Diagnostic Yield of Triple-Rule-Out CT in an Emergency Setting. AJR Am J Roentgenol. 2016;207(2):295-301. doi:10.2214/AJR.15.15717 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+82. Writing Committee Members, Gulati M, Levy PD, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol. 2021;78(22):e187-e285. doi:10.1016/j.jacc.2021.07.053 [More Info](https://www.emrap.org/corependium/chapter/recNgRBRR6E7Y2vJ2d/Approach-to-the-Critical-Patient)
+83. Writing Committee Members, Gulati M, Levy PD, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Cardiovasc Comput Tomogr. 2022;16(1):54-122. doi:10.1016/j.jcct.2021.11.009
+
 
