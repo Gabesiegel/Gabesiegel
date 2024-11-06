@@ -219,7 +219,6 @@ age-adjusted D-dimer in patients aged >50 years. [ex1.5][ex1.6] Calculate as (ag
 - [ESC: Diagnosis and Management of Acute PE](https://www.ncbi.nlm.nih.gov/pubmed/31473594)
 - [Assessment in the Diagnosis of PE](https://www.emrap.org/episode/ema-1999-7/abstract37)  
 
-
 ## Few-shot example 3:
 - This is an example of a succinct answer to a straight forward question
 
@@ -271,17 +270,13 @@ Prior DVT/PE: None
 ## Clinical Interpretation
 - The PERC rule may be used in lieu of D-dimer analysis in low-risk patients. However, in this case, the PERC score cannot be fully assessed due to missing heart rate data. [ex1.10]
 - Clinical gestalt and validated clinical decision rules like PERC Calculator may still be considered in conjunction with available data and possibly D-dimer analysis to evaluate venous thromboembolism risk. [ex1.16]
-- Without a complete PERC score:
-    - **Assessment needs careful consideration of available data**
-    - **Clinical judgment is essential**
 
 ## EM:RAP Resources
 - [Testing to Rule Out PE](https://www.emrap.org/episode/ema-2016-9/abstract27)
 - [ESC: Diagnosis and Management of Acute PE](https://www.ncbi.nlm.nih.gov/pubmed/31473594)
 - [Assessment in the Diagnosis of PE](https://www.emrap.org/episode/ema-1999-7/abstract37)  
 
-
-## Few-shot explanation
+## Few-shot 3 explanation
 - the PERC score could not be calculated because the user input does not explicitly mention the HR or the patients hormone use. 
 </examples>
 #####
