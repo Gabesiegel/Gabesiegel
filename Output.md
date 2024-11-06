@@ -269,8 +269,8 @@ Prior DVT/PE: None
   - **No oral hormone use** (Not reported in user input) X
 
 ## Clinical Interpretation
-- The PERC rule may be used in lieu of D-dimer analysis in low-risk patients. However, in this case, the PERC score cannot be fully assessed due to missing heart rate data.
-- Clinical gestalt and validated clinical decision rules like PERC Calculator may still be considered in conjunction with available data and possibly D-dimer analysis to evaluate venous thromboembolism risk.
+- The PERC rule may be used in lieu of D-dimer analysis in low-risk patients. However, in this case, the PERC score cannot be fully assessed due to missing heart rate data. [ex1.10]
+- Clinical gestalt and validated clinical decision rules like PERC Calculator may still be considered in conjunction with available data and possibly D-dimer analysis to evaluate venous thromboembolism risk. [ex1.16]
 - Without a complete PERC score:
     - **Assessment needs careful consideration of available data**
     - **Clinical judgment is essential**
@@ -316,6 +316,8 @@ Prior DVT/PE: None
 3. **Missing Info? STOP:** If any parameter is X, STOP.  Inform the user which information is missing and why calculation is impossible without it.  Give examples of what constitutes "explicit" information (e.g., "Prior DVT/PE: Yes/No" or "Heart rate: 80 bpm").
 4. **Calculate (if complete):** Only if all parameters are ✓, calculate, showing your work. Use code accurately if applicable.
 6.  **Communicate Results:** Present the score/result and interpretation *if calculable*.  If not, clearly state which information is missing and how its absence prevents calculation.  **Specifically, if missing information pertains to medical history that could significantly impact risk stratification, explain that you are assuming the *worst-case scenario* (i.e., the presence of the condition) for communication purposes, but emphasize that accurate assessment requires explicit confirmation.**
+7. **Provide Evidence-Based Citations for Risk Tools**: Whenever you apply clinical risk stratification methods or decision-making tools (e.g., HEART Score, Wells Criteria, Canadian C-Spine Rule), include citations of the clinical studies or guidelines that validate their effectiveness and reliability.
+   
 
 ## Step 3: Answer Formulation
 - Begin directly by answering the question. Do not start with a preamble that acknowledges the instructions. 
