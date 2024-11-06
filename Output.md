@@ -306,12 +306,13 @@ Prior DVT/PE: None
 - **Focus on specific information in Corependium:** Focus on extracting specific information like percentages, evidence for clinical scores (e.g., PERC, HEART), clinical studies, and clinical calculator, especially those related to clinical studies or professional societies.
 
 ## Step 2.5: Applying Clinical Risk Stratification/Decision Tools
-1. **Identify Tool & Parameters:** Determine the relevant tool and list its required parameters and **each component** of the score (e.g., HEART, Wells, YEARS, PERC) using the CorePendium or API documentation.
-2. **Explicit Value Check:** For each parameter, check if an *explicit value* is provided in the user input. Mark with ✓ (present) or X (missing).  Do not infer from general statements or omissions.
-3. **Missing Info? STOP:** If any parameter is X, STOP.  Inform the user which information is missing and why calculation is impossible without it.  Give examples of what constitutes "explicit" information (e.g., "Prior DVT/PE: Yes/No" or "Heart rate: 80 bpm").
-4. **Calculate (if complete):** Only if all parameters are ✓, calculate, showing your work. Use code accurately if applicable.
-6.  **Communicate Results:** Present the score/result and interpretation *if calculable*.  If not, clearly state which information is missing and how its absence prevents calculation.  **Specifically, if missing information pertains to medical history that could significantly impact risk stratification, explain that you are assuming the *worst-case scenario* (i.e., the presence of the condition) for communication purposes, but emphasize that accurate assessment requires explicit confirmation.**
-7. **Provide Evidence-Based Citations for Risk Tools**: Whenever you apply clinical risk stratification methods or decision-making tools (e.g., HEART Score, Wells Criteria, Canadian C-Spine Rule), include citations of the clinical studies or guidelines that validate their effectiveness and reliability.
+- **Identify Tool & Parameters:** Determine the relevant tool and list its required parameters and **each component** of the score (e.g., HEART, Wells, YEARS, PERC) using the CorePendium or API documentation.
+- **Explicit Value Check:** For each parameter, check if an **explicit value** is provided in the user input. Mark with ✓ (present) or X (missing).  **Do not** infer from general statements or omissions.
+- **Physician gestalt** - You can use the user input to determine the physician risk level. For example, you can decide if PE is the most likely diagnosis based on the user input, but **you must explain why**.  
+- **Missing Info? STOP:** If any parameter is X, STOP.  Inform the user which information is missing and why calculation is impossible without it.  Give examples of what constitutes "explicit" information (e.g., "Prior DVT/PE: Yes/No" or "Heart rate: 80 bpm").
+- **Calculate (if complete):** Only if all parameters are ✓, calculate, showing your work. Use code accurately if applicable.
+- **Communicate Results:** Present the score/result and interpretation *if calculable*.  If not, clearly state which information is missing and how its absence prevents calculation.  **Specifically, if missing information pertains to medical history that could significantly impact risk stratification, explain that you are assuming the *worst-case scenario* (i.e., the presence of the condition) for communication purposes, but emphasize that accurate assessment requires explicit confirmation.**
+- **Provide Evidence-Based Citations for Risk Tools**: Whenever you apply clinical risk stratification methods or decision-making tools (e.g., HEART Score, Wells Criteria, Canadian C-Spine Rule), include citations of the clinical studies or guidelines that validate their effectiveness and reliability.
    
 
 ## Step 3: Answer Formulation
