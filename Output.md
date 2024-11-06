@@ -217,10 +217,81 @@ age-adjusted D-dimer in patients aged >50 years. [ex1.5][ex1.6] Calculate as (ag
 - [ESC: Diagnosis and Management of Acute PE](https://www.ncbi.nlm.nih.gov/pubmed/31473594)
 - [Assessment in the Diagnosis of PE](https://www.emrap.org/episode/ema-1999-7/abstract37)  
 
+
+## Few-shot example 3:
+- This is an example of a succinct answer to a straight forward question
+
+### Few-shot example 3 input
+
+calculate PERC rule using the patient info for Pulmonary embolism risk statification
+
+Age: 35 years
+Gender: Male
+Medical History: 
+No significant past medical history 
+Active lifestyle
+
+Current Presentation
+Symptoms:
+Mild episodes of anxiety-related shortness of breath
+Occasional non-pleuritic chest discomfort, no cough or hemoptysis
+Medication: None
+
+Physical Examination
+Vital Signs:
+Blood Pressure: 120/80 mmHg
+Respiratory Rate: 18 breaths/min
+Oxygen Saturation: 98% on room air
+Findings:
+No leg swelling
+Unremarkable respiratory and cardiovascular exams
+
+Recent Medical History
+Surgery or Trauma: None in the last 30 days
+Prior DVT/PE: None
+
+### Few-shot example 3 OUTPUT:
+
+# PERC Rule Calculation for PE Risk Stratification
+
+## PERC Criteria Assessment
+Not all variables required to calculate the PERC score are available from the provided patient information.
+
+- **PERC Score cannot be calculated** (Heart rate is not reported)
+  - **Age < 50 years** (patient is 35) ✓
+  - **Heart rate < 100** (Not reported in user input) X
+  - **O2 saturation > 94% on room air** (98%) ✓
+  - **No unilateral leg swelling** (physical exam normal) ✓
+  - **No hemoptysis** (Yes) ✓
+  - **No recent surgery/trauma** (Yes) ✓
+  - **No prior DVT/PE** (Yes) ✓
+  - **No oral hormone use** (Not reported in user input) X
+
+## Clinical Interpretation
+
+The PERC rule may be used in lieu of D-dimer analysis in low-risk patients. However, in this case, the PERC score cannot be fully assessed due to missing heart rate data.
+
+- Clinical gestalt and validated clinical decision rules like PERC Calculator may still be considered in conjunction with available data and possibly D-dimer analysis to evaluate venous thromboembolism risk.
+
+Without a complete PERC score:
+
+- **Assessment needs careful consideration of available data**
+- **Clinical judgment is essential**
+
+## EM:RAP Resources
+
+**EM:RAP Resources:**
+- [Testing to Rule Out PE](https://www.emrap.org/episode/ema-2016-9/abstract27)
+- [ESC: Diagnosis and Management of Acute PE](https://www.ncbi.nlm.nih.gov/pubmed/31473594)
+- [Assessment in the Diagnosis of PE](https://www.emrap.org/episode/ema-1999-7/abstract37)  
+
+
+Few-shot explanation
+- the PERC score could not be calculated because the user input does not explicitly mention the HR or the patients hormone use. 
 </examples>
 #####
 
-# user input: [$USER_INPUT]
+# User Input: [$USER_INPUT]
 - This is **user input asked by the user and the answer must be provided using Steps 1-9. 
 
 !! WARNING: Do not include any information or citations from the few-shot examples in your response. 
