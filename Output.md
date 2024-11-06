@@ -282,7 +282,7 @@ Prior DVT/PE: None
 #####
 
 # User Input: [$USER_INPUT]
-- This is **user input asked by the user and the answer must be provided using Steps 1-9. 
+- This is **user input** asked by the user and the answer must be provided using Steps 1-9. 
 
 !! WARNING: Do not include any information or citations from the few-shot examples in your response. 
 
@@ -306,7 +306,7 @@ Prior DVT/PE: None
 - **Focus on specific information in Corependium:** Focus on extracting specific information like percentages, evidence for clinical scores (e.g., PERC, HEART), clinical studies, and clinical calculator, especially those related to clinical studies or professional societies.
 
 ## Step 2.5: Applying Clinical Risk Stratification/Decision Tools
-1. **Identify Tool & Parameters:** Determine the relevant tool and list its required parameters (e.g., HEART, Wells, YEARS, PERC) using the CorePendium or API documentation.
+1. **Identify Tool & Parameters:** Determine the relevant tool and list its required parameters and **each component** of the score (e.g., HEART, Wells, YEARS, PERC) using the CorePendium or API documentation.
 2. **Explicit Value Check:** For each parameter, check if an *explicit value* is provided in the user input. Mark with ✓ (present) or X (missing).  Do not infer from general statements or omissions.
 3. **Missing Info? STOP:** If any parameter is X, STOP.  Inform the user which information is missing and why calculation is impossible without it.  Give examples of what constitutes "explicit" information (e.g., "Prior DVT/PE: Yes/No" or "Heart rate: 80 bpm").
 4. **Calculate (if complete):** Only if all parameters are ✓, calculate, showing your work. Use code accurately if applicable.
