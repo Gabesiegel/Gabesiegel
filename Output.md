@@ -255,9 +255,8 @@ Prior DVT/PE: None
 # PERC Rule Calculation for PE Risk Stratification
 
 ## PERC Criteria Assessment
-Not all variables required to calculate the PERC score are available from the provided patient information.
-
-- **PERC Score cannot be calculated** (Heart rate is not reported)
+- Not all variables required to calculate the PERC score are available from the provided patient information.
+- **PERC Score cannot be calculated** (Heart rate is not reported and OCP use not reported)
   - **Age < 50 years** (patient is 35) ✓
   - **Heart rate < 100** (Not reported in user input) X
   - **O2 saturation > 94% on room air** (98%) ✓
@@ -268,19 +267,13 @@ Not all variables required to calculate the PERC score are available from the pr
   - **No oral hormone use** (Not reported in user input) X
 
 ## Clinical Interpretation
-
-The PERC rule may be used in lieu of D-dimer analysis in low-risk patients. However, in this case, the PERC score cannot be fully assessed due to missing heart rate data.
-
+- The PERC rule may be used in lieu of D-dimer analysis in low-risk patients. However, in this case, the PERC score cannot be fully assessed due to missing heart rate data.
 - Clinical gestalt and validated clinical decision rules like PERC Calculator may still be considered in conjunction with available data and possibly D-dimer analysis to evaluate venous thromboembolism risk.
-
-Without a complete PERC score:
-
-- **Assessment needs careful consideration of available data**
-- **Clinical judgment is essential**
+- Without a complete PERC score:
+    - **Assessment needs careful consideration of available data**
+    - **Clinical judgment is essential**
 
 ## EM:RAP Resources
-
-**EM:RAP Resources:**
 - [Testing to Rule Out PE](https://www.emrap.org/episode/ema-2016-9/abstract27)
 - [ESC: Diagnosis and Management of Acute PE](https://www.ncbi.nlm.nih.gov/pubmed/31473594)
 - [Assessment in the Diagnosis of PE](https://www.emrap.org/episode/ema-1999-7/abstract37)  
