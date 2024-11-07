@@ -338,6 +338,7 @@ age-adjusted D-dimer in patients aged >50 years. [ex1.5][ex1.6] Calculate as (ag
     - **Medications/Drugs:** Always include links for medications IF PRESENT in the CorePendium article. **Copy and paste exactly.**
     - **Calculators/Scores/Criteria:** Always include links for these items IF PRESENT on the same bullet point as the information being cited.
 - Each hyperlink from Corependium is specific to the text in the []. **Do not change the bracketed text for hyperlinks**
+- **DO not include EM:RAP links if there are no links in the Corependium**
 
 ## Step 9: Self-Consistency Check
 - **Verify Citation Accuracy:**
