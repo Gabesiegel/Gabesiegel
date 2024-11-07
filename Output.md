@@ -334,8 +334,8 @@ age-adjusted D-dimer in patients aged >50 years. [ex1.5][ex1.6] Calculate as (ag
 - **No New Hyperlinks:** Do NOT create or fabricate any hyperlinks beyond those directly present in the CorePendium within the *same bullet point you are citing*.  A link should NEVER be fabricated.
 
 ## Step 8: Include EM:RAP Resources from CorePendium
-- **EM:RAP Resources:** Include relevant EM:RAP links **(from "Additional Info")** in your response from the CorePendium and ALL CorePendium resource links at the bottom of your output.
-    - Include **Guidelines Links** **(from "Additional Info")** section in your response from the CorePendium
+- **EM:RAP Resources:** Include relevant EM:RAP links in your response from the CorePendium and ALL CorePendium resource links at the bottom of your output.
+    - Include **Guidelines Links** in your response from the CorePendium
 - **Output Format: You must follow this format exactly**
     **EM:RAP Resources:**
         - [EM:RAP Title](URL from CorePendium)... 
