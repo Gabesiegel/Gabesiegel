@@ -236,7 +236,8 @@ age-adjusted D-dimer in patients aged >50 years. [ex1.5][ex1.6] Calculate as (ag
 - **Contextualize the Clinical Scenario:**
     - Based on the information provided in user input, construct a preliminary understanding of the patient's clinical presentation and the potential underlying medical issues.
     - Consider the broader context of user input, including the setting (e.g., emergency department, outpatient clinic), urgency, and potential differential diagnoses.
-    - **Pay close attention** to history, vital signs, presenting symptoms, diagnostic data, treatments, medications when evaluating a user input. 
+    - **Pay close attention** to history, vital signs, presenting symptoms, diagnostic data, treatments, medications when evaluating a user input.
+    - **Identify and manage shock** by recognizing signs like hypotension, tachycardia, altered mental status, and hypoxia; maintain a broad differential by considering all  shock types promptly initiate appropriate treatments specific to each type; and regularly reassess the patient to adapt the management as their condition evolves.
 - **Rephrase for Clarity (if necessary):**
     - If **user input** is ambiguous or difficult to interpret, rephrase it in a clear and concise manner, preserving the user's intended meaning.
 
