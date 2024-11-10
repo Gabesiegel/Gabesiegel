@@ -61,7 +61,7 @@
 
 ### Few-Shot Example 1 Input
 
-**Example question:** 68-year-old male with a history of hypertension and coronary artery disease presents to the emergency department with worsening shortness of breath, orthopnea, and lower extremity edema. He has been compliant with his medications. How should I manage diuresis for this patient? Does he need aspirin?
+**Example question:** 68-year-old male with a history of hypertension and coronary artery disease presents to the emergency department with worsening shortness of breath, orthopnea, and lower extremity edema. He has been compliant with his medications. How should I manage the initial stablization and diuresis for this patient? Does he need aspirin?
 
 #### Few-Shot Example CorePendium (CorePendium are truncated in the example for learning purposes):
 
@@ -144,8 +144,6 @@ ______________________________________
 
 ### Few-Shot Example 1 Output
 
-# Here's a structured approach to medication management for a patient with classic signs of decompensated heart failure, focused on diuretics and aspirin:
-
 ## Initial Stabilization:
 - Assess airway, breathing, and circulation (ABCs). Ensure adequate oxygenation with supplemental oxygen to maintain SpO2 ≥ 90%.
 - Obtain vital signs, including heart rate, blood pressure, respiratory rate, and temperature. 
@@ -159,6 +157,7 @@ ______________________________________
 - The decision to use diuretics vs. IV fluids should be based on an assessment of the patient' volume status using history and physical exam.
 - Not every patient with pulmonary edema is total body volume-overloaded. Some may be euvolemic or hypovolemic and need IV fluids rather than diuresis. 
 - Most patients with a history of chronic HF know their “dry weight.” A significant increase in the current weight over the dry weight is suggestive of fluid overload, and these patients are likely to benefit from diuresis.
+- Consider using POCUS to visualize IVC to assess if volume overloaded perform VExUS exam. 
 
 ## Medications:
 - **Diuretics:** Use when the history and physical exam suggest volume overload.
@@ -171,15 +170,7 @@ ______________________________________
 - **Aspirin:**
     - In patients where you have concern for ACS and no contraindication, administer a non-enteric-coated PO loading dose (162-325 mg). [ex2.135] [ex2.136]
     - Aspirin has a number needed to treat of 42 for mortality. [ex2.137] [ex2.138]
-
-## Non-Pharmacologic Management:
-- **Oxygen therapy:**
-    - Maintain oxygen saturation ≥ 90% with supplemental oxygen.
-- **Fluid restriction:**
-    - Limit fluid intake to minimize fluid overload. [ex1.21]
-- **Elevate the head of the bed:**
-    - This can improve lung expansion and reduce venous return, easing breathing difficulties. 
-
+  
 **EM:RAP Resources**
 - [Flash Pulmonary Edema](https://www.emrap.org/episode/c3chf/c3chfflash)
 - [New ACS Guidelines: 2015](https://www.emrap.org/episode/may2015/cardiology)
