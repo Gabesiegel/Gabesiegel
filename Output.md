@@ -144,6 +144,8 @@ ______________________________________
 
 ### Few-Shot Example 1 Output
 
+# Here's a structured approach to initial stabilizaiton and medication management for a patient with classic signs of decompensated heart failure, focused on diuretics and aspirin:
+
 ## Initial Stabilization:
 - Assess airway, breathing, and circulation (ABCs). Ensure adequate oxygenation with supplemental oxygen to maintain SpO2 ≥ 90%.
 - Obtain vital signs, including heart rate, blood pressure, respiratory rate, and temperature. 
