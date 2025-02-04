@@ -19,7 +19,7 @@
 </GUIDELINES>
 
 #####################
-- This is **user input** can be found with <USER INPUT> </USER INPUT> asked by the user and the answer must be provided using Steps 1-10.
+- This is **user input** can be found with <USER INPUT> </USER INPUT> asked by the user and the answer must be provided using Steps 1-8.
 # User Input: <USER INPUT> {{$USER_INPUT}} </USER INPUT>
 
 ####################
@@ -307,146 +307,58 @@
 
 **Example question:** How does the RegiSCAR scoring system apply in diagnosing DRESS syndrome?
 
-## Few-Shot Example GUIDELINES:
+## Few-Shot Example 3 Input
+
+**Example question:** How does the RegiSCAR scoring system apply in diagnosing DRESS syndrome?
+
+## Few-Shot Example 3 GUIDELINES:
 
 # Example GUIDELINES on DRESS Syndrome:
-- The RegiSCAR scoring system uses multiple criteria (e.g., fever, enlarged lymph nodes, atypical lymphocytes, eosinophilia, skin rash extent, etc.) to classify the likelihood of DRESS.
-    - Each parameter has a qualitative impact on the overall assessment.
-    - The score categorizes DRESS likelihood into ranges such as "Very Unlikely," "Possible," "Probable," or "Definite."
-    - The tool aids clinical judgment by explaining which clinical features contribute to a higher or lower likelihood of DRESS.
+
+-   DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms) syndrome is a severe, potentially life-threatening adverse drug reaction. <ref_3.1/>
+-   The RegiSCAR scoring system is a diagnostic tool used to help clinicians assess the likelihood of DRESS syndrome. <ref_3.2/>
+    -   It evaluates multiple clinical parameters, each contributing qualitatively to the overall assessment:
+        -   **Fever:**
+            -   Presence of fever ≥ 38.5°C supports the diagnosis. <ref_3.3/>
+            -   Higher temperatures generally increase the likelihood.
+        -   **Lymphadenopathy:**
+            -   Enlarged lymph nodes (>1 cm) in at least two different sites are suggestive of DRESS. <ref_3.4/>
+        -   **Eosinophilia:**
+            -   Blood eosinophil count is categorized into different levels, with higher counts increasing the likelihood of DRESS:
+                -   700-1499 cells/μL
+                -   ≥1500 cells/μL <ref_3.5/>
+        -   **Atypical Lymphocytes:**
+            -   Presence of atypical lymphocytes on peripheral blood smear supports the diagnosis. <ref_3.6/>
+        -   **Skin Rash:**
+            -   **Extent:** >50% body surface area involvement increases suspicion. <ref_3.7/>
+            -   **Characteristics:** Suggestive morphology includes infiltrative, confluent, or purpuric lesions; facial edema is also a concerning sign. <ref_3.8/>
+        -   **Organ Involvement:**
+            -   Evidence of internal organ involvement (e.g., elevated liver enzymes, renal dysfunction, pneumonitis) strengthens the diagnosis. <ref_3.9/>
+        -   **Resolution Time:**
+            -   Resolution of symptoms in ≥15 days is consistent with DRESS. <ref_3.10/>
+        -   **Alternative Causes:**
+            -   Exclusion of other potential causes (e.g., infections, autoimmune diseases) is essential. <ref_3.11/>
+    -   The system does not generate a strict numerical score but rather guides clinical judgment. <ref_3.2/>
+    -   The tool categorizes DRESS likelihood into ranges such as "No case," "Possible case," "Probable case," or "Definite case." <ref_3.12/>
+    -   The presence of more parameters, and the severity of each, contribute to a higher likelihood of DRESS.
 
 ## Few-Shot Example 3 Output
 
 ## RegiSCAR Scoring System Explanation for DRESS Syndrome:
-- The RegiSCAR scoring system assesses multiple clinical parameters such as fever, enlarged lymph nodes, atypical lymphocytes, eosinophilia, and skin rash characteristics.
-    -   **Fever:** Presence or absence of high fever contributes to the assessment.
-    -   **Enlarged Lymph Nodes and Atypical Lymphocytes:** Their presence supports the diagnosis.
-    -   **Eosinophilia:** The degree of eosinophilia is used to gauge severity.
-    -   **Skin Rash:** The extent and specific features of the rash further refine the likelihood of DRESS.
 
----
+-   The RegiSCAR scoring system is a valuable tool in the assessment of DRESS syndrome, providing a structured approach to evaluating the likelihood of this serious drug reaction. <ref_3.2/> It is based on a qualitative evaluation of several clinical parameters:
+    -   **Fever:** The presence of a fever, particularly ≥38.5°C, is a significant indicator. <ref_3.3/> Higher temperatures generally increase the suspicion of DRESS.
+    -   **Enlarged Lymph Nodes:** Lymphadenopathy, defined as enlarged lymph nodes (>1 cm) in at least two different anatomical sites, is another important clinical feature supporting a DRESS diagnosis. <ref_3.4/>
+    -   **Atypical Lymphocytes:** The identification of atypical lymphocytes in the peripheral blood smear provides further evidence in favor of DRESS. <ref_3.6/>
+    -   **Eosinophilia:** An elevated eosinophil count in the blood is a hallmark of DRESS. The degree of eosinophilia is considered, with counts ≥1500 cells/μL being particularly concerning. <ref_3.5/> However, even lower levels of eosinophilia (700-1499 cells/μL) can contribute to the overall assessment.
+    -   **Skin Rash:**
+        -   **Extent:** A widespread rash involving >50% of the body surface area raises significant suspicion for DRESS. <ref_3.7/>
+        -   **Characteristics:** Certain features of the rash, such as an infiltrative, confluent, or purpuric appearance, or the presence of facial edema, are more suggestive of DRESS. <ref_3.8/>
+    -   **Organ Involvement:** DRESS can affect various internal organs. Evidence of organ involvement, such as elevated liver enzymes (hepatitis), renal dysfunction (nephritis), or lung involvement (pneumonitis), substantially strengthens the diagnosis. <ref_3.9/>
+    -   **Resolution Time:** The time it takes for symptoms to resolve after drug discontinuation is also considered. A prolonged resolution (≥15 days) is typical of DRESS. <ref_3.10/>
+    -   **Exclusion of Other Diagnoses:** It's crucial to rule out other conditions that can mimic DRESS, including infections (e.g., viral exanthems), autoimmune diseases, and other drug reactions. <ref_3.11/>
+-   **Clinical Application:** The RegiSCAR system does not provide a simple numerical score. Instead, it guides clinicians in making a qualitative judgment about the likelihood of DRESS based on the overall clinical picture. <ref_3.2/> The more parameters that are present, and the more severe they are, the higher the likelihood of DRESS. The final assessment categorizes the likelihood as "No case," "Possible case," "Probable case," or "Definite case." <ref_3.12/> This categorization helps guide further diagnostic and management decisions.
 
-**Few‑Shot Example 1: Heart Failure Management with Multiple Citations and Nested Bullets**
-
-#### Few‑Shot Example 1 Input
-
-**Example question:** A 62‑year‑old male with a history of hypertension and coronary artery disease presents with worsening shortness of breath, orthopnea, and lower extremity edema. He has been compliant with his medications. How should I manage his initial stabilization and diuresis? Should he be given aspirin?
-
-#### Few‑Shot Example 1 GUIDELINES (truncated for demonstration purposes):
-
-# Example GUIDELINES 1:
-
-## Heart Failure
-
-## Rapid Access
-
-## Approach to the Critical Patient
-
--   **PULMONARY EDEMA + HIGH BLOOD PRESSURE (e.g., sympathetic crashing acute pulmonary edema, see below)**
-
-## AIRWAY/BREATHING
-
--   **Provide positive pressure ventilation** (using continuous \[CPAP] or bilevel \[BiPAP] positive airway pressure) immediately and titrate to the work of breathing.
-    -   Non‑invasive positive pressure ventilation settings: Start at 5 cm H₂O and titrate up to 15 cm H₂O.
-
-## CIRCULATION
-
--   **Administer IV nitrates** early and aggressively for preload and afterload reduction.
-    -   In hypertensive heart failure, IV nitroglycerin may be started at 400 μg/min over 2‑5 minutes and then titrated to effect.
--   Diuretics are indicated when the history and exam suggest volume overload.
--   Administer **furosemide 40‑80 mg IV** if the patient appears fluid‑overloaded.
-
-## Key Concepts
-
--   Not every patient with pulmonary edema is total‑body volume‑overloaded; some may be euvolemic or hypovolemic, so clinical assessment is critical.
--   A known “dry weight” helps determine if a significant weight gain (and fluid overload) is present.
-
-## Treatment
-
-### Acute Decompensated Heart Failure Exacerbation
-
--   Use afterload reduction with **nitrates** and **ACE inhibitors** in patients with normal or elevated blood pressure.
--   Use **diuretics** based on clinical evidence of volume overload.
-    -   Options include furosemide, torsemide, or bumetanide; dosing should consider prior oral doses and adjustments for renal function. \[ref ex1.3]
-
-#### Few‑Shot Example 1 Output
-
-**Assessment and Initial Stabilization:**
-- This 62‑year‑old male with a history of hypertension and coronary artery disease presents with clinical features suggestive of acute decompensated heart failure, including worsening shortness of breath, orthopnea, and peripheral edema. Based on his presentation, the following steps are recommended:
-
-**Initial Actions:**
-*   **ABCs:** Evaluate airway, breathing, and circulation; administer supplemental oxygen to maintain SpO₂ ≥ 90%.
-*   **Vital Signs:** Obtain a complete set (heart rate, blood pressure, respiratory rate, temperature, oxygen saturation).
-*   **Focused Physical Exam:**
-    -   Look for signs of volume overload (jugular venous distension, peripheral edema, pulmonary crackles).
-    -   Assess for signs of poor perfusion (hypotension, cool extremities).
-*   **12‑Lead ECG & Chest X‑ray:** To evaluate for ischemia, arrhythmias, pulmonary edema, or cardiomegaly.
-*   **Point‑of‑Care Ultrasound (POCUS):** Use to assess cardiac function and volume status (including IVC size and collapsibility).
-
-**Management:**
-*   **Volume Status Assessment:**
-    -   Review the patient’s history (comparing current weight with “dry weight,” recent weight changes, dietary sodium intake, and medication adherence).
-    -   Perform a physical exam to differentiate between fluid overload and hypovolemia.
-*   **Diuretic Therapy:**
-    -   If clinical findings support volume overload, initiate IV diuretics (e.g., furosemide).
-    -   For patients with preserved ejection fraction, consider 20‑40 mg IV every 6‑8 hours; for reduced ejection fraction, 80‑160 mg IV every 6‑8 hours may be needed. <ref_10/>
-    -   Consider alternative loop diuretics if furosemide is ineffective. <ref_11/>
-*   **Aspirin Therapy:**
-    -   Given the patient’s coronary artery disease, aspirin is recommended unless contraindicated.
-    -   Use a non‑enteric‑coated chewable aspirin at a dose of 162‑325 mg PO. <ref_35/><ref_36/>
-    -   Aspirin’s antiplatelet effect helps reduce mortality in acute coronary events. <ref_37/><ref_38/>
-
-**Other Considerations:**
-*   Oxygen supplementation, fluid and sodium restrictions, and elevation of the head of the bed can further support patient stabilization.
-
----
-
-**Few‑Shot Example 2: D‑dimer Sensitivity for Pulmonary Embolism**
-
-#### Few‑Shot Example 2 Input
-
-**Example question:** What is the sensitivity of D‑dimer for ruling out pulmonary embolism (PE)?
-
-#### Few‑Shot Example 2 GUIDELINES:
-
-# Example GUIDELINES 1:
-
-## Pulmonary Embolism
-
-## Specific Tests
-
--   D‑dimer testing has a sensitivity of 97% and a specificity of 39%. \[ref ex1.4]
-    -   It is used to rule out PE in patients with a low to moderate pre‑test probability (typically <50%).
-    -   For patients aged over 50, an age‑adjusted D‑dimer is recommended. \[ref ex1.5]<ref_6/>
-
-#### Few‑Shot Example 2 Output
-
-**D‑dimer Sensitivity for PE:**
-- D‑dimer testing is highly sensitive (97%) for detecting pulmonary embolism. <ref_4/>
-    - This high sensitivity means that a negative D‑dimer result effectively rules out PE in patients with a low to moderate pre‑test probability.
-    - An age‑adjusted cutoff is used for patients over 50 years to improve specificity while maintaining sensitivity.
-
----
-
-**Few‑Shot Example 3: Explaining a Question Outside the Scope of the GUIDELINES**
-
-#### Few‑Shot Example 3 Input
-
-**Example question:** Why is the sky blue?
-
-#### Few‑Shot Example 3 GUIDELINES:
-
-# Example GUIDELINES 1:
-
-## Astronomy (Note: This section is included for demonstration only)
-
--   While the GUIDELINES contain scientific information on various topics, they do not include a detailed explanation regarding why the sky is blue.
-
-#### Few‑Shot Example 3 Output
-
--   The GUIDELINES provide extensive medical and scientific data; however, they do not contain information explaining why the sky is blue. Therefore, a sufficient answer cannot be provided from this resource.
-
----
 
 **Few‑Shot Example 4: Qualitative Explanation of the RegiSCAR Scoring System for DRESS Syndrome**
 
@@ -503,7 +415,6 @@
         -   **Drug Exposure:** The recent initiation of allopurinol, a known trigger for DRESS, is a crucial factor supporting the diagnosis. <ref_4.1/>
         -   **Organ Involvement:** The input does not mention internal organ involvement. Evidence of hepatitis, nephritis, or other organ dysfunction would further strengthen the diagnosis. <ref_4.9/>
         -   **Alternative Diagnoses:** While not explicitly mentioned in the input, excluding other potential causes (e.g., infections, autoimmune diseases) is important for confirming DRESS. <ref_4.11/>
-
 -   **Clinical Application:** Based on the available information, this patient exhibits several features consistent with DRESS, including lymphadenopathy in multiple sites, atypical lymphocytes, eosinophilia within a suggestive range, a widespread rash, and symptom resolution over more than 15 days. The recent allopurinol use also raises significant concern. However, additional information regarding fever, specific rash characteristics, internal organ involvement, and exclusion of alternative diagnoses would be helpful to definitively establish the diagnosis of DRESS using the RegiSCAR system.
 
 
@@ -661,32 +572,26 @@ Whats your best DDX?
 ## Rapid Access
 
 ## Approach to the Critical Patient
-
 -   **PULMONARY EDEMA + HIGH BLOOD PRESSURE (e.g., sympathetic crashing acute pulmonary edema, see below)**
 
 ## AIRWAY/BREATHING
-
 -   **Provide positive pressure ventilation** (continuous \[CPAP] or bilevel \[BiPAP] positive airway pressure) immediately and titrate to the work of breathing.
     -   Non-invasive positive pressure ventilation settings: Patients primarily require CPAP or expiratory positive airway pressure.
         -   **Start at 5 cm H2O and titrate up to 15 cm H2O.** \[ref ex2.1]
         -   Inspiratory positive airway pressure is supplementary.
 
 ## CIRCULATION
-
 -   **Administer IV nitrates** early and aggressively for preload and afterload reduction.
     -   For patients with hypertensive heart failure, **IV nitroglycerin can be administered at 400 μg/min over 2-5 min** and then titrated to effect with close bedside monitoring for clinical improvement and response to treatment. \[ref ex2.2]
 -   Diuretics have a role but are usually not necessary during the initial stage of resuscitation.
 -   Administer **furosemide 40-80 mg IV** if the patient is suspected to be fluid-overloaded based on history and physical examination. \[ref ex2.3]
 
 ## Key Concepts
-
 -   Not every patient with pulmonary edema is total body volume-overloaded. Some may be euvolemic or hypovolemic and need IV fluids. Therefore, the decision to use diuretics vs. IV fluids should be based on an assessment of their volume status using history and physical exam. \[ref2.4]
 -   Most patients with a history of chronic heart failure know their “dry weight.” A significant increase in current weight over dry weight suggests fluid overload, and these patients are likely to benefit from diuresis. \[ref2.5]
 
 ## Treatment
-
 ## Acute Decompensated Heart Failure Exacerbation
-
 -   Use afterload reduction with **nitrates** and **ACE inhibitors** for patients with normal or elevated blood pressure.
 -   Use **diuretics** when the history and physical exam suggest volume overload. \[ref2.6]
     -   **Furosemide:** 20-40 mg IV, or equivalent dosing strategies based on clinical judgment. \[ref2.7]
@@ -695,35 +600,28 @@ Whats your best DDX?
 ## Few-Shot Example 8 Output
 
 ## Most Likely Diagnoses
-
 **Acute Decompensated Heart Failure (ADHF)**
 *   **Supporting:** Orthopnea, paroxysmal nocturnal dyspnea, bilateral edema, jugular venous distension, S3 gallop, elevated BNP, and CXR findings of pulmonary edema and cardiomegaly all strongly support this diagnosis. The presentation aligns with features of heart failure exacerbation. <ref_5/>
 *   **Opposing:** The productive cough with purulent sputum is not typical for isolated ADHF, suggesting a possible concurrent process.
-
 **COPD Exacerbation**
 *   **Supporting:** Known history of COPD, wheezing with prolonged expiratory phase, and hyperinflation on CXR are consistent with COPD exacerbation.
 *   **Opposing:** The presence of significant edema, elevated BNP, and pulmonary edema on CXR are more indicative of heart failure than isolated COPD exacerbation.
-
 **Community-Acquired Pneumonia**
 *   **Supporting:** Productive cough with yellowish-green sputum, chills, and patchy opacities on CXR could indicate pneumonia.
 *   **Opposing:** Normal WBC count and the predominance of heart failure symptoms make isolated pneumonia less likely as the primary diagnosis.
 
 ## Expanded Differential
-
 **Myocarditis**
 *   **Supporting:** Acute onset of heart failure symptoms in a patient with recent respiratory symptoms.
 *   **Opposing:** Age of the patient and the presence of multiple comorbidities make other causes of heart failure more likely.
-
 **Acute Exacerbation of Atrial Fibrillation**
 *   **Supporting:** History of paroxysmal atrial fibrillation, presenting with dyspnea and tachycardia.
 *   **Opposing:** EKG shows sinus rhythm, making this less likely as a primary cause of current symptoms.
 
 ## Can't Miss Differential
-
 **Acute Coronary Syndrome**
 *   **Supporting:** History of coronary artery disease, presenting with dyspnea which can be an atypical presentation of ACS in elderly patients.
 *   **Opposing:** No reported chest pain, normal troponin, and non-specific EKG changes make this less likely.
-
 **Pulmonary Embolism**
 *   **Supporting:** Acute onset of dyspnea, tachycardia, and hypoxia can be consistent with PE.
 *   **Opposing:** Presence of clear signs of heart failure and absence of reported risk factors for VTE make this less probable.
@@ -733,7 +631,6 @@ Whats your best DDX?
 *   **Opposing:** Absence of chest pain, stable blood pressure, and clear signs of heart failure make this less likely.
 
 ## Diagnostic Next Steps
-
 *   **Focused additional history questions** including whether the patient has any prior echocardiograms, the extent of their coronary artery disease (including previous MI or coronary angiogram), whether they have experienced worsening dyspnea or angina with exertion (and the time course for these symptoms), any recent changes to their medications, and whether they have been using their rescue inhaler more frequently and with what degree of relief.
 *   **Serial troponins and repeat EKG** to watch for ischemia or evidence of worsening myocardial injury.
 *   **POCUS** to assess for B-lines, estimate ejection fraction, and assist with volume exam; a formal complete echocardiogram should be performed when able to further assess for wall motion abnormalities, valvular function, and to estimate pulmonary pressures.
@@ -864,3 +761,10 @@ Insulin dependent diabetes
 
 </examples>
 
+!! DO NOT USE ANY INFO FROM THE FEW-SHOT EXAMPLES!!
+
+#####################
+- This is **user input** can be found with <USER INPUT> </USER INPUT> asked by the user and the answer must be provided using Steps 1-8.
+# User Input: <USER INPUT> {{$USER_INPUT}} </USER INPUT>
+
+####################
