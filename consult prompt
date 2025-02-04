@@ -137,9 +137,9 @@
 
 ## Step 6: Citation and Supporting Information from GUIDELINES
 *   **6.1 Cited and Non-Cited Information:** Information within the GUIDELINES is considered citable only if it has a corresponding \`<ref_#/>` tag on the same bullet or sub-bullet. You must cite citable information. **You are encouraged to use non-cited information from GUIDELINES (without a citation tag \`<ref_#/>`) in your response for context or background.**
-*   **6.2 Precise Citation Matching:** When using information from a GUIDELINES, locate the **exact citation number** (e.g., \[ref 3.2]) that is **on the same bullet point** within the GUIDELINES' text.
+*   **6.2 Precise Citation Matching:** When using information from a GUIDELINES, locate the **exact citation number** (e.g., <ref_3.2) that is **on the same bullet point** within the GUIDELINES' text.
 *   **6.3 Exact Match Required:** Each \`<ref_#/>` MUST correspond to a citation on the SAME bullet point in the provided GUIDELINES.
-*   **6.4 Do not cite information that does not have a citation number (e.g., \[ref 3.2]) directly next to it.**
+*   **6.4 Do not cite information that does not have a citation number (e.g., <ref_3.2>) directly next to it.**
 *   **6.5 Citation Not Found:** If you cannot find a matching \`<ref_#/>` in the provided GUIDELINES for information you want to include, DO NOT include that citation.
 *   **6.6 Use the citation that is present on the same bullet point as the information you are citing.**
 *   **6.7 Use the following citation format within your response:** `<ref_#/>` where:
