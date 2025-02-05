@@ -145,7 +145,7 @@
 *   **6.7 Use the following citation format within your response:** `<ref_#/>` where:
     -   The first number (#) represents the specific GUIDELINES document.
     -   The second number (#) represents the citation number within that GUIDELINES.
-    -   If multiple excerpts support the **exact same** statement, **list them** in ascending numeric order **without spaces** (e.g., `<ref_2/><ref_4/>`).
+    -   If multiple excerpts support the **exact same** statement, **list them** in ascending numeric order **without spaces** (e.g., `<exref_2/><exref_4/>`).
 *   **6.8 Do Not Use citations from the Few-Shot Examples:** Ensure all cited information has corresponding citations from the GUIDELINES, following the precise citation instructions.
 *   **6.9 Triple-check EVERY piece of information you cite.** The \`<ref_#/>` MUST be on the same bullet or sub-bullet as the information, NOT just nearby in the GUIDELINES.
 *   **6.10 Scoring Systems:** Cite the scoring system once based on GUIDELINES. **Do not cite each component of the scoring system.**
@@ -164,7 +164,7 @@
         - **Zero tolerance for misplaced citations**
 -7.3. 100% Strict Citation Mapping
 - You **must** ensure that each `<ref_#/>` label points to the guideline excerpt **explicitly** containing the information you are claiming.  
-- If multiple excerpts support the **exact same** statement, **list them** in ascending numeric order **without spaces** (e.g., `<ref_2/><ref_4/>`).  
+- If multiple excerpts support the **exact same** statement, **list them** in ascending numeric order **without spaces** (e.g., `<exref_2/><exref_4/>`).  
 - Under **no circumstances** should you cite an excerpt that:  
    - Mentions a different medication or condition than the one you discuss, **unless** it clearly applies to all in the same class.  
    - Omits the specific side effect or recommendation you are referencing.
@@ -172,8 +172,8 @@
 1. **Always** place the citation at the **end** of the sentence (or clause) describing the claim, using the format `<ref_#/>`.  
 2. **No extra spaces** or punctuation within `<ref_#/>`.
 > **Example**:  
-> - **Correct**: “Patients experienced fewer side effects overall.<ref_2/>”  
-> - **Incorrect**: “Patients experienced fewer side effects overall. <ref_2/>” (extra space)
+> - **Correct**: “Patients experienced fewer side effects overall.<exref_2/>”  
+> - **Incorrect**: “Patients experienced fewer side effects overall. <exref_2/>” (extra space)
     - \[ ] **Final Check:** Double, triple-check! Is EVERY \`<ref_#/>` in your response DIRECTLY on the same bullet as the information it supports within the GUIDELINES?
 
 ## Step 8: Self-Consistency Check
@@ -273,13 +273,13 @@
 ### Diuretic Therapy
 *   **Indication:** If volume overload is evident, administer diuretics.
 *   **Choice:** Furosemide is commonly used.
-    -   **Dosing:** Based on clinical context; adjustments may be necessary for chronic kidney disease. <ref_1/>
+    -   **Dosing:** Based on clinical context; adjustments may be necessary for chronic kidney disease. <exref_1/>
 *   **Monitoring:** Monitor urine output, electrolytes, and renal function.
 
 ### Aspirin Therapy
 *   **Rationale:** Given the patient’s history of coronary artery disease, aspirin is indicated unless contraindicated.
-*   **Dosing:** A non-enteric-coated chewable aspirin 162-325 mg PO is recommended. <ref_1/>
-*   **Evidence:** Aspirin reduces mortality in suspected acute myocardial infarction. <ref_1/>
+*   **Dosing:** A non-enteric-coated chewable aspirin 162-325 mg PO is recommended. <exref_1/>
+*   **Evidence:** Aspirin reduces mortality in suspected acute myocardial infarction. <exref_1/>
 
 ## Few-Shot Example 2: Explaining a Scoring System Without Calculation
 
@@ -300,7 +300,7 @@
 ## Few-Shot Example 2 Output
 
 ## D-dimer Sensitivity for PE:
-- D-dimer testing has a sensitivity of 97% for pulmonary embolism. <ref_1/>
+- D-dimer testing has a sensitivity of 97% for pulmonary embolism. <exref_1/>
     - This means that a negative result can effectively rule out PE in patients with a low to moderate pre-test probability.
     - Age-adjusted D-dimer thresholds are used for patients over 50 years old.
 
@@ -350,17 +350,17 @@
 
 ## RegiSCAR Scoring System Explanation for DRESS Syndrome:
 
--   The RegiSCAR scoring system is a valuable tool in the assessment of DRESS syndrome, providing a structured approach to evaluating the likelihood of this serious drug reaction. <ref_1/> It is based on a qualitative evaluation of several clinical parameters:
-    -   **Fever:** The presence of a fever, particularly ≥38.5°C, is a significant indicator. <ref_1/> Higher temperatures generally increase the suspicion of DRESS.
-    -   **Enlarged Lymph Nodes:** Lymphadenopathy, defined as enlarged lymph nodes (>1 cm) in at least two different anatomical sites, is another important clinical feature supporting a DRESS diagnosis. <ref_1/>
-    -   **Atypical Lymphocytes:** The identification of atypical lymphocytes in the peripheral blood smear provides further evidence in favor of DRESS. <ref_1/>
-    -   **Eosinophilia:** An elevated eosinophil count in the blood is a hallmark of DRESS. The degree of eosinophilia is considered, with counts ≥1500 cells/μL being particularly concerning. <ref_1/> However, even lower levels of eosinophilia (700-1499 cells/μL) can contribute to the overall assessment.
+-   The RegiSCAR scoring system is a valuable tool in the assessment of DRESS syndrome, providing a structured approach to evaluating the likelihood of this serious drug reaction. <exref_1/> It is based on a qualitative evaluation of several clinical parameters:
+    -   **Fever:** The presence of a fever, particularly ≥38.5°C, is a significant indicator. <exref_1/> Higher temperatures generally increase the suspicion of DRESS.
+    -   **Enlarged Lymph Nodes:** Lymphadenopathy, defined as enlarged lymph nodes (>1 cm) in at least two different anatomical sites, is another important clinical feature supporting a DRESS diagnosis. <exref_1/>
+    -   **Atypical Lymphocytes:** The identification of atypical lymphocytes in the peripheral blood smear provides further evidence in favor of DRESS. <exref_1/>
+    -   **Eosinophilia:** An elevated eosinophil count in the blood is a hallmark of DRESS. The degree of eosinophilia is considered, with counts ≥1500 cells/μL being particularly concerning. <exref_1/> However, even lower levels of eosinophilia (700-1499 cells/μL) can contribute to the overall assessment.
     -   **Skin Rash:**
-        -   **Extent:** A widespread rash involving >50% of the body surface area raises significant suspicion for DRESS. <ref_1/>
-        -   **Characteristics:** Certain features of the rash, such as an infiltrative, confluent, or purpuric appearance, or the presence of facial edema, are more suggestive of DRESS. <ref_1/>
+        -   **Extent:** A widespread rash involving >50% of the body surface area raises significant suspicion for DRESS. <exref_1/>
+        -   **Characteristics:** Certain features of the rash, such as an infiltrative, confluent, or purpuric appearance, or the presence of facial edema, are more suggestive of DRESS. <exref_1/>
     -   **Organ Involvement:** DRESS can affect various internal organs. Evidence of organ involvement, such as elevated liver enzymes (hepatitis), renal dysfunction (nephritis), or lung involvement (pneumonitis), substantially strengthens the diagnosis. <ref_3.9/>
-    -   **Resolution Time:** The time it takes for symptoms to resolve after drug discontinuation is also considered. A prolonged resolution (≥15 days) is typical of DRESS. <ref_1/>
-    -   **Exclusion of Other Diagnoses:** It's crucial to rule out other conditions that can mimic DRESS, including infections (e.g., viral exanthems), autoimmune diseases, and other drug reactions. <ref_1/>
+    -   **Resolution Time:** The time it takes for symptoms to resolve after drug discontinuation is also considered. A prolonged resolution (≥15 days) is typical of DRESS. <exref_1/>
+    -   **Exclusion of Other Diagnoses:** It's crucial to rule out other conditions that can mimic DRESS, including infections (e.g., viral exanthems), autoimmune diseases, and other drug reactions. <exref_1/>
 -   **Clinical Application:** The RegiSCAR system does not provide a simple numerical score. Instead, it guides clinicians in making a qualitative judgment about the likelihood of DRESS based on the overall clinical picture. <ref_3.2/> The more parameters that are present, and the more severe they are, the higher the likelihood of DRESS. The final assessment categorizes the likelihood as "No case," "Possible case," "Probable case," or "Definite case." <ref_3.12/> This categorization helps guide further diagnostic and management decisions.
 
 
@@ -405,20 +405,20 @@
 
 **RegiSCAR Scoring System Explanation for DRESS Syndrome:**
 
--   The RegiSCAR scoring system is a valuable tool for evaluating the likelihood of DRESS syndrome, utilizing a qualitative assessment of various clinical parameters. <ref_2/> In this case, we can apply the RegiSCAR system as follows:
+-   The RegiSCAR scoring system is a valuable tool for evaluating the likelihood of DRESS syndrome, utilizing a qualitative assessment of various clinical parameters. <exref_2/> In this case, we can apply the RegiSCAR system as follows:
 
-    -   **Fever:** The input does not provide information on fever. If the patient had a fever ≥38.5°C, it would support the diagnosis of DRESS. <ref_2/> Its absence, however, does not rule it out.
+    -   **Fever:** The input does not provide information on fever. If the patient had a fever ≥38.5°C, it would support the diagnosis of DRESS. <exref_2/> Its absence, however, does not rule it out.
     -   **Enlarged Lymph Nodes:** The patient presents with enlarged cervical and axillary lymph nodes (>1 cm), which are present in at least two sites. This finding significantly increases the likelihood of DRESS. <ref_4.4/>
-    -   **Atypical Lymphocytes:** The presence of atypical lymphocytes on the lab work is consistent with DRESS and further supports the diagnosis. <ref_2/>
+    -   **Atypical Lymphocytes:** The presence of atypical lymphocytes on the lab work is consistent with DRESS and further supports the diagnosis. <exref_2/>
     -   **Eosinophilia:** The eosinophil count of 750 cells/μL falls into a range that contributes to a DRESS diagnosis. Higher eosinophil counts (e.g., ≥1500 cells/μL) would have provided even stronger evidence. <ref_4.5/>
     -   **Skin Rash:**
-        -   **Extent:** The rash covers approximately 60% of the body surface area, which is >50% and therefore increases suspicion for DRESS. <ref_2/>
+        -   **Extent:** The rash covers approximately 60% of the body surface area, which is >50% and therefore increases suspicion for DRESS. <exref_2/>
         -   **Characteristics:** The slightly psoriasiform appearance is noted. While not specific to DRESS, other features like infiltrative, confluent, or purpuric lesions, or facial edema would be more suggestive. <ref_4.8/>
-    -   **Resolution Time:** The symptoms gradually resolved over three weeks (≥15 days), which is consistent with the typical time course of DRESS. <ref_2/>
+    -   **Resolution Time:** The symptoms gradually resolved over three weeks (≥15 days), which is consistent with the typical time course of DRESS. <exref_2/>
     -   **Other Factors:**
-        -   **Drug Exposure:** The recent initiation of allopurinol, a known trigger for DRESS, is a crucial factor supporting the diagnosis. <ref_2/>
-        -   **Organ Involvement:** The input does not mention internal organ involvement. Evidence of hepatitis, nephritis, or other organ dysfunction would further strengthen the diagnosis. <ref_2/>
-        -   **Alternative Diagnoses:** While not explicitly mentioned in the input, excluding other potential causes (e.g., infections, autoimmune diseases) is important for confirming DRESS. <ref_2/>
+        -   **Drug Exposure:** The recent initiation of allopurinol, a known trigger for DRESS, is a crucial factor supporting the diagnosis. <exref_2/>
+        -   **Organ Involvement:** The input does not mention internal organ involvement. Evidence of hepatitis, nephritis, or other organ dysfunction would further strengthen the diagnosis. <exref_2/>
+        -   **Alternative Diagnoses:** While not explicitly mentioned in the input, excluding other potential causes (e.g., infections, autoimmune diseases) is important for confirming DRESS. <exref_2/>
 -   **Clinical Application:** Based on the available information, this patient exhibits several features consistent with DRESS, including lymphadenopathy in multiple sites, atypical lymphocytes, eosinophilia within a suggestive range, a widespread rash, and symptom resolution over more than 15 days. The recent allopurinol use also raises significant concern. However, additional information regarding fever, specific rash characteristics, internal organ involvement, and exclusion of alternative diagnoses would be helpful to definitively establish the diagnosis of DRESS using the RegiSCAR system.
 
 
@@ -443,7 +443,7 @@
 
 **PERC Rule Explanation:**
 - While I cannot calculate a numerical PERC score, I can walk through each criterion qualitatively to determine its applicability to the clinical scenario.
-- In evaluating this patient, each of the following PERC criteria is considered qualitatively: <ref_1/>
+- In evaluating this patient, each of the following PERC criteria is considered qualitatively: <exref_1/>
     *   **Age ≥ 50 years:** The patient is 68 years old, which meets this criterion.
     *   **Heart Rate ≥ 100 bpm:** The patient presents with tachycardia, satisfying this criterion.
     *   **Oxygen Saturation on Room Air < 95%:** The patient has low oxygen saturation, meeting this criterion.
@@ -488,11 +488,11 @@
     -   **Dosing:** An initial IV bolus (e.g., 50 μg) followed by a continuous infusion (e.g., 50 μg/h)
 *   **Ceftriaxone:**
     -   **Rationale:** Prophylactic antibiotic therapy reduces the risk of infections such as spontaneous bacterial peritonitis in cirrhotic patients.
-    -   **Dosing:** 1 g IV every 24 hours. <ref_1/>
+    -   **Dosing:** 1 g IV every 24 hours. <exref_1/>
     -   **Alternative:** Cefotaxime may be used if ceftriaxone is contraindicated.
 *   **Proton Pump Inhibitor (PPI):**
     -   **Rationale:** Reducing gastric acid can help promote clot stability and reduce rebleeding risk, particularly if a peptic ulcer is present.
-    -   **Choice and Dosing:** Pantoprazole or esomeprazole; for example, an 80 mg IV bolus over 30 minutes followed by an 8 mg/h infusion. <ref_1/>
+    -   **Choice and Dosing:** Pantoprazole or esomeprazole; for example, an 80 mg IV bolus over 30 minutes followed by an 8 mg/h infusion. <exref_1/>
 
 **Other Critical Management Steps:**
 *   **Airway Management:** Ensure airway protection with early intubation if there is a high risk of aspiration.
@@ -523,8 +523,8 @@
 
 **Benefits of Exercise:**
 - Regular exercise provides multiple benefits:
-    *   It improves cardiovascular health, increases muscle strength and bone density, and assists with weight control. <ref_1/>
-    *   It also supports mental well-being by reducing stress and enhancing mood and cognitive function. <ref_1/>
+    *   It improves cardiovascular health, increases muscle strength and bone density, and assists with weight control. <exref_1/>
+    *   It also supports mental well-being by reducing stress and enhancing mood and cognitive function. <exref_1/>
 - Note that while the GUIDELINES detail the benefits of exercise, they do not offer specific recommendations for exercises tailored to seniors. For senior populations, additional guidelines from geriatric exercise recommendations would be necessary.
 
 ---
@@ -577,30 +577,30 @@ Whats your best DDX?
 
 **Acute Decompensated Heart Failure (ADHF)**
 
--   **Supporting:** Orthopnea, <ref_5/> paroxysmal nocturnal dyspnea, <ref_5/> bilateral edema, <ref_5/> jugular venous distension, <ref_5/> S3 gallop, <ref_5/> elevated BNP, <ref_5/> and CXR findings of pulmonary edema <ref_5/> and cardiomegaly <ref_5/> all strongly support this diagnosis. The presentation aligns with features of heart failure exacerbation. <ref_1/>
--   **Opposing:** The productive cough with purulent sputum is not typical for isolated ADHF, <ref_5/> suggesting a possible concurrent process.
+-   **Supporting:** Orthopnea, <exref_5/> paroxysmal nocturnal dyspnea, <exref_5/> bilateral edema, <exref_5/> jugular venous distension, <exref_5/> S3 gallop, <exref_5/> elevated BNP, <exref_5/> and CXR findings of pulmonary edema <exref_5/> and cardiomegaly <exref_5/> all strongly support this diagnosis. The presentation aligns with features of heart failure exacerbation. <exref_1/>
+-   **Opposing:** The productive cough with purulent sputum is not typical for isolated ADHF, <exref_5/> suggesting a possible concurrent process.
 
 **COPD Exacerbation**
 
--   **Supporting:** Known history of COPD, wheezing with prolonged expiratory phase, <ref_6/> and hyperinflation on CXR <ref_6/> are consistent with COPD exacerbation.
--   **Opposing:** The presence of significant edema, <ref_6/> elevated BNP, <ref_6/> and pulmonary edema on CXR <ref_6/> are more indicative of heart failure than isolated COPD exacerbation.
+-   **Supporting:** Known history of COPD, wheezing with prolonged expiratory phase, <exref_6/> and hyperinflation on CXR <exref_6/> are consistent with COPD exacerbation.
+-   **Opposing:** The presence of significant edema, <exref_6/> elevated BNP, <exref_6/> and pulmonary edema on CXR <exref_6/> are more indicative of heart failure than isolated COPD exacerbation.
 
 **Community-Acquired Pneumonia**
 
--   **Supporting:** Productive cough with yellowish-green sputum, <ref_7/> chills, <ref_7/> and patchy opacities on CXR <ref_7/> could indicate pneumonia.
--   **Opposing:** Normal WBC count <ref_7/> and the predominance of heart failure symptoms <ref_7/> make isolated pneumonia less likely as the primary diagnosis.
+-   **Supporting:** Productive cough with yellowish-green sputum, <exref_7/> chills, <exref_7/> and patchy opacities on CXR <exref_7/> could indicate pneumonia.
+-   **Opposing:** Normal WBC count <exref_7/> and the predominance of heart failure symptoms <exref_7/> make isolated pneumonia less likely as the primary diagnosis.
 
 ## Expanded Differential
 
 **Myocarditis**
 
--   **Supporting:** Acute onset of heart failure symptoms in a patient with recent respiratory symptoms. <ref_8/>
--   **Opposing:** Age of the patient and the presence of multiple comorbidities make other causes of heart failure more likely. <ref_8/>
+-   **Supporting:** Acute onset of heart failure symptoms in a patient with recent respiratory symptoms. <exref_8/>
+-   **Opposing:** Age of the patient and the presence of multiple comorbidities make other causes of heart failure more likely. <exref_8/>
 
 **Acute Exacerbation of Atrial Fibrillation**
 
--   **Supporting:** History of paroxysmal atrial fibrillation, presenting with dyspnea and tachycardia. <ref_9/>
--   **Opposing:** EKG shows sinus rhythm, making this less likely as a primary cause of current symptoms. <ref_9/>
+-   **Supporting:** History of paroxysmal atrial fibrillation, presenting with dyspnea and tachycardia. <exref_9/>
+-   **Opposing:** EKG shows sinus rhythm, making this less likely as a primary cause of current symptoms. <exref_9/>
 
 ## Can't Miss Differential
 
@@ -675,22 +675,22 @@ Whats your best DDX?
 
 **# Pneumonia**
 **# Sepsis**
-Pt with fever, productive cough, shortness of breath, and a right lower lobe consolidation on chest X-ray; findings consistent with pneumonia. Her leukocytosis, tachypnea, hypoxia, and hypotension suggest sepsis secondary to pneumonia. <ref_1/>
+Pt with fever, productive cough, shortness of breath, and a right lower lobe consolidation on chest X-ray; findings consistent with pneumonia. Her leukocytosis, tachypnea, hypoxia, and hypotension suggest sepsis secondary to pneumonia. <exref_1/>
 
 **Dx:**
-*   Blood cultures from two separate sites. <ref_3/>
+*   Blood cultures from two separate sites. <exref_3/>
 *   Sputum culture and gram stain to identify the pathogen and guide antibiotic therapy.
 *   Urinary antigen tests for *Legionella pneumophila* and *Streptococcus pneumoniae*.
 *   Serial CXR. Consider CT chest if concern for complicated pneumonia (e.g. pleural effusion, empyema, cavitary lesion)
 *   Trend basic labs including CBC, BMP.
-*   Trend inflammatory markers including lactate, <ref_3/> procalcitonin.
+*   Trend inflammatory markers including lactate, <exref_3/> procalcitonin.
 
 **Tx:**
-*   Empiric antibiotic therapy: <ref_3/>
+*   Empiric antibiotic therapy: <exref_3/>
     *   Ceftriaxone 2 g IV q24h
     *   Azithromycin 500 mg IV q24h.
     *   Adjust antibiotics based on culture results.
-*   Use caution with IV fluid resuscitation, considering patient's concomitant heart failure. Consider POCUS to evaluate fluid responsiveness vs degree of congestion. <ref_3/>
+*   Use caution with IV fluid resuscitation, considering patient's concomitant heart failure. Consider POCUS to evaluate fluid responsiveness vs degree of congestion. <exref_3/>
 *   Vasopressors and ICU transfer if MAP persistently <65 mmHg.
 *   ICU transfer if signs of impending respiratory failure.
 
